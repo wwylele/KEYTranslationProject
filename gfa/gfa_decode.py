@@ -1,3 +1,7 @@
+# Tool for decoding gfa files
+# inspired by 
+#  - hcs64/vgm_ripping /gfa.bms (https://github.com/hcs64/vgm_ripping/tree/master/etc/gfo2png/gfa.bms)
+#  - bpe encoding (http://www.csse.monash.edu.au/cluster/RJK/Compress/problem.html)
 import os
 import struct
 
