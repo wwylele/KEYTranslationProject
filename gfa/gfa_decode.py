@@ -55,7 +55,7 @@ if fileIn.read(4).decode()!='GFAC':
 	fileIn.close()
 	exit(1)
 
-v1,v2,tableOff,tableLen,dataOff,dataLen=struct.unpack('iiiiii',fileIn.read(24))
+v1,v2,tableOff,tableLen,dataOff,dataLen=struct.unpack('IIIIII',fileIn.read(24))
 print('v1=',v1)
 print('v2=',v2)
 print('table@',tableOff,' len=',tableLen)
@@ -64,7 +64,7 @@ print('data@',dataOff,' len=',dataLen)
 fileIn.seek(tableOff,os.SEEK_SET)
 subfileCount,=struct.unpack('i',fileIn.read(4))
 for i in range(subfileCount):
-	crc,nameOff,subfileLen,subfileOff=struct.unpack('iIii',fileIn.read(16))
+	crc,nameOff,subfileLen,subfileOff=struct.unpack('IIII',fileIn.read(16))
 	if nameOff>0x80000000:
 		print("(the last file)")
 		nameOff-=0x80000000
@@ -94,7 +94,7 @@ if fileIn.read(4).decode()!='GFCP':
 	fileIn.close()
 	exit(1)
 
-v3,v4,rawLen,comLen=struct.unpack('iiii',fileIn.read(16))
+v3,v4,rawLen,comLen=struct.unpack('IIII',fileIn.read(16))
 
 print('v3=',v3)
 print('v4=',v4)
