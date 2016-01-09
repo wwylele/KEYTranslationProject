@@ -4,7 +4,7 @@ BinName=input("message file:")
 TxtName=input("txt file:")
 os.system("copy "+BinName+" "+BinName+".remake")
 bin=open(BinName+".remake","rb+")
-txt=open(TxtName,"rU",encoding='utf-8')
+txt=open(TxtName,"rU",encoding='utf_8_sig')
 bin.seek(0x14,os.SEEK_SET)
 Coff,Doff=struct.unpack('>II',bin.read(8))
 count=(Doff-Coff)//4
