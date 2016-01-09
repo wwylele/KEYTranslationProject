@@ -1,0 +1,50 @@
+BIG_ENDIAN
+
+{
+//Header
+magic32 GFMC;
+u32 ?;
+u32 FileSize;
+u32 Table A pointer;//=0x1C
+u32 Table B pointer;
+u32 Table C pointer;
+u32 Table D pointer;
+
+//0x1C:
+//Table A
+//Language Independence
+struct{
+    u32 ?count;//can be zero
+    u32 id;// refer to item in Table B and C
+    
+}[?]
+
+//Table B
+//Language Independence
+struct{
+    u32 ?
+    u32 ?
+    u32 ?
+}[?]
+
+//Table C
+//Language Dependence
+u32 ?[The same size as B?]//seems offset for elements in Table, relative to the begining of TableD
+
+//Table D
+//Text, Language Dependence
+struct{
+    u16 sequence[];
+    /* example sequence: ?
+	0x000A 0x5047 //Paragraph(PG) begin
+	0x000A 0x5458 //Text(TX) begin
+	0x0000 0x0009 //length
+	u16[9]        //utf-16
+	0x000A 0x5458 //Text(TX) begin
+	0x0000 0x0004 //length
+	u16[4]        //utf-16
+	0x000B 0x5047 //Paragraph(PG) end
+    */
+}[]
+
+}
