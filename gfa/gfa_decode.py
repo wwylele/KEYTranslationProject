@@ -5,9 +5,13 @@
 import os
 import struct
 
+import gfa_crc
+
+
 fileName=input("gfa file name:")
 
 subfileList=[]
+crcTable={}
 currentSubfile=0
 fileOut=None
 
@@ -83,9 +87,16 @@ for i in range(subfileCount):
 		name+=c
 	fileIn.seek(savePos,os.SEEK_SET)
 	subfileList.append( [name,subfileLen,paddingBefore] )
+	crcTable[name]=crc
 	print("file:",name,"len=",subfileLen)
 	prevSubfileOff=subfileOff
 	prevSubfileLen=subfileLen
+
+fileOut=open(dir+gfa_crc.crcTableFileName,'wt')
+gfa_crc.writeTable(fileOut,crcTable)
+fileOut.close();
+fileOut=None
+
 openSubfile(0)
 
 fileIn.seek(dataOff,os.SEEK_SET)

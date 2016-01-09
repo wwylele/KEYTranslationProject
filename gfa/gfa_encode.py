@@ -5,6 +5,8 @@
 import os
 import struct
 
+import gfa_crc
+
 if not os.path.isfile("bpe.exe"):
 	print("need compiled bpe.exe (from bpe.c)")
 	exit(1)
@@ -20,6 +22,11 @@ for subfileName in os.listdir(pathName):
 	fullPath=os.path.join(pathName,subfileName)
 	if not os.path.isfile(fullPath):
 		continue
+	if subfileName==gfa_crc.crcTableFileName:
+		crcFile=open(fullPath,'rt')
+		crcTable=gfa_crc.readTable(crcFile)
+		crcFile.close()
+		continue
 	Len=os.path.getsize(fullPath)
 	info=[subfileName,tempFile.tell(),Len,0]
 	subfileInfo.append(info)
@@ -28,7 +35,7 @@ for subfileName in os.listdir(pathName):
 	tempFile.write(subfile.read(Len))
 	subfile.close()
 	currentPos=tempFile.tell();
-	padding=16-tempFile.tell()%16
+	padding=32-tempFile.tell()%32
 	tempFile.seek(padding,os.SEEK_CUR)
 
 tempFile.close()
@@ -60,11 +67,11 @@ for i in subfileInfo:
 	outFile.write((i[0]+'\0').encode())
 	idx+=1
 tableEndOff=outFile.tell()
-outFile.seek(16-outFile.tell()%16+16,os.SEEK_CUR)
+outFile.seek(32-outFile.tell()%32,os.SEEK_CUR)
 dataOff=outFile.tell()
 outFile.seek(tableInfoOff,os.SEEK_SET)
 for i in subfileInfo:
-	outFile.write(struct.pack('IIII',0xCCCCCCCC,i[3],i[2],i[1]+dataOff))
+	outFile.write(struct.pack('IIII',crcTable[i[0]],i[3],i[2],i[1]+dataOff))
 outFile.seek(dataOff,os.SEEK_SET)
 outFile.write(struct.pack("4sIIII",b"GFCP",1,1,rawLen,comLen))
 comFile=open(comFileName,"rb")
