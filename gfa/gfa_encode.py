@@ -59,7 +59,8 @@ for i in subfileInfo:
 		i[3]+=0x80000000
 	outFile.write((i[0]+'\0').encode())
 	idx+=1
-outFile.seek(16-outFile.tell()%16,os.SEEK_CUR)
+tableEndOff=outFile.tell()
+outFile.seek(16-outFile.tell()%16+16,os.SEEK_CUR)
 dataOff=outFile.tell()
 outFile.seek(tableInfoOff,os.SEEK_SET)
 for i in subfileInfo:
@@ -72,5 +73,5 @@ comFile.close()
 os.remove(comFileName);
 
 outFile.seek(0,os.SEEK_SET)
-outFile.write(struct.pack("4sIIIIII",b"GFAC",0x3000,1,tableOff,dataOff-tableOff,dataOff,comLen+0x14))
+outFile.write(struct.pack("4sIIIIII",b"GFAC",0x300,1,tableOff,tableEndOff-tableOff,dataOff,comLen+0x14))
 outFile.close()
