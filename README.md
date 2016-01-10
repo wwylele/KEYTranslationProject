@@ -6,8 +6,8 @@ This is a Chinese translation project for the game *Kirby's Epic Yarn*.
 
 ###翻译们看这里：
 
-请将翻译文本以UTF-8编码存储到与原文本同名的文件里，上传到`message_bin`文件夹中。
-注意翻译文本格式要与原文本一致。格式问题可以参阅`message_bin/example.txt`。
+请将翻译文本以UTF-8编码存储到与原文本同名的文件里，上传到`message_tran`文件夹中。
+注意翻译文本格式要与原文本一致。格式问题可以参阅`message_tran/example.txt`。
 
 ###工具说明
 
