@@ -68,8 +68,8 @@ void Brfnt::Load(FILE* f){
     fread(&cwdh,sizeof(cwdh),1,f);
     assert(cwdh.mgc==mgcCWDH);
     glyphs.resize(ce(cwdh.charCountm1)+1);
-    cw = finf.width+1;
-    ch = finf.height+1;
+    cw = tglp.fwm1+1;
+    ch = tglp.fhm1+1;
     for(u32 i = 0; i<ce(cwdh.charCountm1)+1; ++i){
         glyphs[i].pixels.resize(cw*ch);
         fread(&glyphs[i].wdhA,1,1,f);
@@ -275,17 +275,25 @@ void Brfnt::Save(FILE* f){
 
 u32* Brfnt::AddChar(u16 utf,u8 a,u8 b,u8 c){
     
-    for(auto& dm:discreteMaps){
-        if(utf==dm.Utf){
-            dm.Utf = 0xFFE0;
-        }
-    }
+    
     Glyph g;
     g.wdhA = a;
     g.wdhB = b;
     g.wdhC = c;
     glyphs.push_back(g);
     glyphs.back().pixels.resize(cw*ch);
-    discreteMaps.push_back(DiscreteMap{utf,(u16)(glyphs.size()-1)});
+    auto iter = discreteMaps.begin();
+    for(;; iter++){
+        if(iter->Utf==utf){
+            iter->glyphId = (u16)(glyphs.size()-1);
+            break;
+        } else if(iter->Utf>utf){
+            discreteMaps.insert(iter,DiscreteMap{utf,(u16)(glyphs.size()-1)});
+            break;
+        } else if(iter==discreteMaps.end()){
+            discreteMaps.push_back(DiscreteMap{utf,(u16)(glyphs.size()-1)});
+            break;
+        }
+    }
     return glyphs.back().pixels.data();
 }
