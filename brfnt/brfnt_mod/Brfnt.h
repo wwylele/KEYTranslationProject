@@ -77,7 +77,7 @@ class Brfnt{
     FINF finf;
     TGLP tglp;
 
-    int cw,ch;
+    
 
     struct Glyph{
         vector<u32> pixels;
@@ -97,11 +97,13 @@ class Brfnt{
     };
     vector<DiscreteMap> discreteMaps;
 public:
+    int cw,ch;
     Brfnt();
     ~Brfnt();
     void Load(FILE* f);
     void Save(FILE* f);
     void PrintGlyph(u32 id);
     void Print(u16 utf);
+    u32* AddChar(u16 utf,u8 a,u8 b,u8 c);
 };
 

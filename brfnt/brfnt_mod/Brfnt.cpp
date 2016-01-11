@@ -272,3 +272,20 @@ void Brfnt::Save(FILE* f){
     fwrite(&rfnt,sizeof(rfnt),1,f);
     fwrite(&finf,sizeof(finf),1,f);
 }
+
+u32* Brfnt::AddChar(u16 utf,u8 a,u8 b,u8 c){
+    
+    for(auto& dm:discreteMaps){
+        if(utf==dm.Utf){
+            dm.Utf = 0xFFE0;
+        }
+    }
+    Glyph g;
+    g.wdhA = a;
+    g.wdhB = b;
+    g.wdhC = c;
+    glyphs.push_back(g);
+    glyphs.back().pixels.resize(cw*ch);
+    discreteMaps.push_back(DiscreteMap{utf,(u16)(glyphs.size()-1)});
+    return glyphs.back().pixels.data();
+}
