@@ -11,11 +11,10 @@ This is a Chinese translation project for the game *Kirby's Epic Yarn*.
 
 ###工具说明
 
- - `arc`: 用于拆包arc文件的工具，用python2编写。
-
  - `gfa`: 用于拆包和重组gfa文件的工具，用python3编写。
 `gfa_encoder.py`运行前先要编译`bpe.c`为`bpe`，
 运行`gfa_encoder.py`时要将工作目录设为`bpe`所在文件夹。
 
  - `message_bin`: 用于拆包和重组文本文件的工具，用python3编写。
 
+*TODO* ...
