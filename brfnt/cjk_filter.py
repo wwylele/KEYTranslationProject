@@ -1,10 +1,14 @@
 
 import struct
+import sys
+import getopt
+
+opts,args=getopt.getopt(sys.argv[1:],'o:')
+
+print("cjk_filter")
 charSet=set()
-while True:
-	txtName=input("a txt file name:")
-	if txtName=='':
-		break
+for txtName in args:
+	print(txtName)
 	txt=open(txtName,'rU',encoding='utf_8_sig')
 	for row in txt:
 		row=row.replace('\n','')
@@ -20,9 +24,12 @@ while True:
 					charSet.add(d)
 	txt.close()
 
-	
+for (o,v) in opts:
+	if o=='-o':
+		outName=v
+		break;
 
-outName=input("the output file name:")
+print("->",outName)
 out=open(outName,'wb')
 for d in charSet:
 	out.write(struct.pack("H",d))
