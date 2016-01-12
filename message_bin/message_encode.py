@@ -1,9 +1,27 @@
 import os
 import struct
-BinName=input("message file:")
-TxtName=input("txt file:")
-os.system("copy "+BinName+" "+BinName+".remake")
-bin=open(BinName+".remake","rb+")
+import sys
+if len(sys.argv)<4 :
+	BinName=input("message file:")
+	NewBinName=BinName+".remake"
+	TxtName=input("txt file:")
+else:
+	BinName=sys.argv[1]
+	NewBinName=sys.argv[3]
+	TxtName=sys.argv[2]
+
+print(BinName,NewBinName)
+#os.system("copy /y "+BinName+" "+NewBinName)
+ob=open(BinName,"rb")
+nb=open(NewBinName,"wb")
+ob.seek(0x14,os.SEEK_SET)
+Coff,=struct.unpack('>I',ob.read(4))
+ob.seek(0,os.SEEK_SET)
+nb.write(ob.read(Coff))
+ob.close()
+nb.close()
+
+bin=open(NewBinName,"rb+")
 txt=open(TxtName,"rU",encoding='utf_8_sig')
 bin.seek(0x14,os.SEEK_SET)
 Coff,Doff=struct.unpack('>II',bin.read(8))
