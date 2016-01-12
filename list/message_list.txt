@@ -1,0 +1,14 @@
+DemoMessage_EnvDemo
+DemoMessage_StaffCredits
+DemoMessage_StoryDemo
+FlfMessage_Game
+FlfMessage_System
+ItemMessage_Character
+ItemMessage_Demo
+ItemMessage_Interior
+ItemMessage_KeyItem
+ItemMessage_Operation
+ItemMessage_Pattern
+ItemMessage_Room
+ItemMessage_Sound
+ItemMessage_StageName
