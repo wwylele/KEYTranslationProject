@@ -4,7 +4,7 @@
 #  - bpe encoding (http://www.csse.monash.edu.au/cluster/RJK/Compress/problem.html)
 import os
 import struct
-
+import sys
 import gfa_crc
 
 if not os.path.isfile("bpe.exe"):
@@ -12,11 +12,17 @@ if not os.path.isfile("bpe.exe"):
 	exit(1)
 
 subfileInfo=[]
-
-pathName=input("the path of files to encode:")
+if len(sys.argv)<3:
+	pathName=input("the path of files to encode:")
+	outFileName=os.path.join(pathName,"../remake.gfa")
+else:
+	pathName=sys.argv[1]
+	outFileName=sys.argv[2]
+	print(outFileName,"<",pathName)
+	
 tempFileName=os.path.join(pathName,"../gfa.temp")
 comFileName=os.path.join(pathName,"../gfa.comress")
-outFileName=os.path.join(pathName,"../remake.gfa")
+
 tempFile=open(tempFileName,"wb")
 for subfileName in os.listdir(pathName):
 	fullPath=os.path.join(pathName,subfileName)

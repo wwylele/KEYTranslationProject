@@ -33,11 +33,17 @@ void drawChar(u32* p,int w,int h,u16 utf){
     }
 }
 
-int main(){
+int main(int argc, char** argv){
+    if(argc<4){
+        cout<<"Usage: brfnt_mod <base_brfnt> <charset_file> <output_brfnt>";
+        return -1;
+    }
+    cout<<argv[3]<<" < "<<argv[1]<<" + "<<argv[2];
     string n;
     Brfnt brfnt;
-    cout<<"input brfnt file:"<<endl;
-    getline(cin,n);
+    //cout<<"input brfnt file:"<<endl;
+    //getline(cin,n);
+    n = argv[1];
     if(n.find("GameFont1.brfnt")!=string::npos){
         fontType = 1;
     } else fontType = 2;
@@ -62,8 +68,9 @@ int main(){
     }
     SelectObject(hDC,hFont);
 
-    cout<<"charset file:"<<endl;
-    getline(cin,n);
+    //cout<<"charset file:"<<endl;
+    //getline(cin,n);
+    n = argv[2];
     utfs = fopen(n.data(),"rb");
     u16 utf;
     while(fread(&utf,2,1,utfs)){
@@ -75,8 +82,9 @@ int main(){
         drawChar(p,brfnt.cw,brfnt.ch,utf);
     }
     fclose(utfs);
-    cout<<"output brfnt file:"<<endl;
-    getline(cin,n);
+    //cout<<"output brfnt file:"<<endl;
+    //getline(cin,n);
+    n = argv[3];
     out = fopen(n.data(),"wb");
     brfnt.Save(out);
     fclose(out);
