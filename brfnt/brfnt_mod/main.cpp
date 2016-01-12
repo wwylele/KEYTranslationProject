@@ -19,7 +19,7 @@ void drawChar(u32* p,int w,int h,u16 utf){
     str[1] = 0;
     str[0] = utf;
     if(fontType==1){
-
+        rc.top += 10;
     } else{
         rc.top += 6;
     }
@@ -61,7 +61,8 @@ int main(int argc, char** argv){
     ReleaseDC(hDesktop,hDesktopDC);
     SetBkMode(hDC,TRANSPARENT);
     if(fontType==1){
-        throw;
+        hFont = CreateFont(32,0,0,0,FW_DONTCARE,FALSE,FALSE,FALSE,DEFAULT_CHARSET,OUT_OUTLINE_PRECIS,
+            CLIP_DEFAULT_PRECIS,CLEARTYPE_QUALITY,VARIABLE_PITCH,TEXT("汉仪粗黑简"));
     } else{
         hFont= CreateFont(24,0,0,0,FW_DONTCARE,FALSE,FALSE,FALSE,DEFAULT_CHARSET,OUT_OUTLINE_PRECIS,
             CLIP_DEFAULT_PRECIS,CLEARTYPE_QUALITY,VARIABLE_PITCH,TEXT("汉仪粗黑简"));
