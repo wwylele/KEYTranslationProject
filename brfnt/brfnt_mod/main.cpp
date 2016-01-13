@@ -38,7 +38,7 @@ int main(int argc, char** argv){
         cout<<"Usage: brfnt_mod <base_brfnt> <charset_file> <output_brfnt>";
         return -1;
     }
-    cout<<argv[3]<<" < "<<argv[1]<<" + "<<argv[2];
+    cout<<argv[3]<<" < "<<argv[1]<<" + "<<argv[2]<<endl;
     string n;
     Brfnt brfnt;
     //cout<<"input brfnt file:"<<endl;
@@ -61,8 +61,8 @@ int main(int argc, char** argv){
     ReleaseDC(hDesktop,hDesktopDC);
     SetBkMode(hDC,TRANSPARENT);
     if(fontType==1){
-        hFont = CreateFont(32,0,0,0,FW_DONTCARE,FALSE,FALSE,FALSE,DEFAULT_CHARSET,OUT_OUTLINE_PRECIS,
-            CLIP_DEFAULT_PRECIS,CLEARTYPE_QUALITY,VARIABLE_PITCH,TEXT("汉仪粗黑简"));
+        hFont = CreateFont(36,0,0,0,FW_BOLD,FALSE,FALSE,FALSE,DEFAULT_CHARSET,OUT_OUTLINE_PRECIS,
+            CLIP_DEFAULT_PRECIS,CLEARTYPE_QUALITY,VARIABLE_PITCH,TEXT("汉仪黑荔枝体简"));
     } else{
         hFont= CreateFont(24,0,0,0,FW_DONTCARE,FALSE,FALSE,FALSE,DEFAULT_CHARSET,OUT_OUTLINE_PRECIS,
             CLIP_DEFAULT_PRECIS,CLEARTYPE_QUALITY,VARIABLE_PITCH,TEXT("汉仪粗黑简"));
