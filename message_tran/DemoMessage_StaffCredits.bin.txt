@@ -1,2 +1,234 @@
-﻿@@@
-待完成
+﻿@@StaffCredits保留原文（先不说翻译问题，就那个字体，太难搞了）
+@0
+Hironori Kuraoka
+@1
+Yuhei Matsuda
+@2
+Naoya Abe
+@3
+STAFF CREDITS
+@4
+Yuji Shibata
+@5
+DIRECTOR
+@6
+Yasuhiro Masuoka
+@7
+PLANNING DIRECTOR
+@8
+Keita Sakunaga
+@9
+PLANNING
+@10
+Satoshi Kobayashi
+@11
+PROGRAMMING DIRECTOR
+@12
+Kazunobu Sameshima
+@13
+PROGRAMMING
+@14
+Tomonori Kowari
+@15
+DESIGN DIRECTOR
+@16
+Kazumasa Yonetani
+@17
+DESIGN
+@18
+MUSIC & SOUND EFFECTS
+@19
+PROGRAMMING ADVISOR
+@20
+Akiko Konagaya
+@21
+Misako Akaike
+@22
+Ayano Otsuka
+@23
+CHARACTER SUPERVISOR
+@24
+Yuichi Nakamura
+@25
+COORDINATION
+@26
+Masaya Okada
+@27
+PRODUCERS
+@28
+Masahiko Toda
+@29
+SENIOR PRODUCERS
+@30
+Tomoya Tomita
+@31
+GENERAL PRODUCER
+@32
+Koichi Yagi
+@33
+EXECUTIVE PRODUCER
+@34
+Tadanori Tsukawaki
+@35
+DEVELOPED BY
+@36
+Madoka Yamauchi
+@37
+NOA LOCALIZATION MANAGEMENT
+@38
+Good-Feel
+@39
+NOA LOCALIZATION
+@40
+HAL Laboratory
+@41
+Nintendo
+@42
+Makiko Ohmoto
+@43
+Tomoko Nakamura
+@44
+Yuko Tsuga
+@45
+Tomohiro Umeda
+@46
+NOA Product Testing
+@47
+Tetsuya Notoya
+@48
+Rieko Kawahara
+@49
+Yumiko Sano
+@50
+Hisayo Osanai
+@51
+Sachiko Nakamichi
+@52
+Satoru Iwata
+@53
+Nate Bihldorff
+@54
+Reiko Ninomiya
+@55
+Tim O'Leary
+@56
+Leslie Swan
+@57
+Gema Almoguera
+@58
+Hélène Bisson-Pelland
+@59
+Anne-Marie Laperrière
+@60
+Ed Murray
+@61
+César Pérez
+@62
+Kentaro Sei
+@63
+Atsushi Kono
+@64
+Yuichi Abe
+@65
+Yuta Bundo
+@66
+Akira Kawase
+@67
+Yosuke Suda
+@68
+Takanori Mori
+@69
+Yudai Shibata
+@70
+Tomoya Sugiyama
+@71
+Yasunori Fujimoto
+@72
+Atsuko Ichii
+@73
+Akiko Izumi
+@74
+Asami Kawabata
+@75
+VISUAL CONCEPT
+@76
+Yoshihiro Hobo
+@77
+GAME DESIGN CONCEPT
+@78
+Yuko Ito
+@79
+ASSISTANT DIRECTOR
+@80
+Yoshie Nobe
+@81
+SPECIAL THANKS
+@82
+Ayaka Miyazawa
+@83
+SOUND
+@84
+Satoko Ozaki
+@85
+VOICE
+@86
+Sachiko Hara
+@87
+TECHNICAL SUPPORT
+@88
+Megumi Watanabe
+@89
+DEBUG
+@90
+ARTWORK
+@91
+ARTWORK SUPPORT
+@92
+Keita Kawaminami
+@93
+Yoshikazu Isono
+@94
+Mayuko Sato
+@95
+Manabu Matsumoto
+@96
+Hiroshi Fujie
+@97
+Tomohiro Minemura
+@98
+Masahiro Shiotani
+@99
+Tadashi Ikegami
+@100
+Jun Ishikawa
+@101
+Hirokazu Ando
+@102
+Keiko Uetani
+@103
+Masanobu Yamamoto
+@104
+Emi Watanabe
+@105
+Etsunobu Ebisu
+@106
+Yoichi Yamamoto
+@107
+Nobuo Matsumiya
+@108
+Shigeharu Umezaki
+@109
+Masayoshi Tanimura
+@110
+Hiroshi Sato
+@111
+Shinya Takahashi
+@112
+Scot Ritchey
+@113
+Pablo Magaz
+@114
+France Marien
+@115
+Dave White
+@@@
