@@ -1,4 +1,32 @@
-﻿@92
-开始游戏
+﻿@@请在这之前添加翻译文本
+@@以下是对部分全大写英文的恢复，请参阅Issue#2
+@18
+GOAL
+@36
+FLUFF WINS!
+@49
+OH NO!
+@50
+READY?
+@51
+READY?
+@52
+HIGH SCORE
+@129
+GO!
+@132
+SUCCESS!
+@136
+OH NO!
+@139
+GOAL!
+@222
+CLEAR!
+@227
+KIRBY WINS!
+@244
+TIME'S UP!
+@251
+TOO BAD!
 @@@
 这是第一次测试使用的文本
