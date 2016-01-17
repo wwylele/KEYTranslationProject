@@ -28,7 +28,7 @@ for (o,v) in opts:
 	if o=='-o':
 		outName=v
 		break;
-
+print("total characters number=", len(charSet))
 print("->",outName)
 out=open(outName,'wb')
 for d in charSet:
