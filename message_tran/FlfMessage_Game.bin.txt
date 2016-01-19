@@ -6,15 +6,15 @@
 @2
 Object Area 2@2
 @3
-OK@3
+确定
 @4
 Throw@4
 @5
 Streak@5
 @6
-Back@6
+返回
 @7
-No@7
+不
 @8
 切换
 @9
@@ -44,7 +44,7 @@ No@7
 @22
 找到了伙伴们
 @23
-地方
+防止
 @24
 声音开启/关闭
 @25
@@ -52,8 +52,8 @@ No@7
 @26
 <X>:<Y>:<Z>
 @27
-Reupholster
-@@What?!
+重新布置
+@@upholster...What?!
 @28
 拍照
 @29
@@ -71,7 +71,7 @@ Reupholster
 @35
 ???
 @37
-Back@37
+返回
 @38
 喜欢这个！
 @39
@@ -83,6 +83,447 @@ Thanks for shopping with us!@40
 你想复制这个吗？
 @42
 <X>:<Y>:<Z>
+@43
+嗯...这个<X>我可以$<Y>个珠子卖给你。
+@44
+嗯...这个<X>不了我可以$<Y>个珠子卖给你。
+@45
+No. <X> @45
+@46
+这样会删除照片。$你确定吗？
+@47
+Staff@47
+@48
+你真的想删除这张照片吗？
+@53
+珠子
+@54
+Streak@54
+@55
+宝物
+@56
+There's a new bead-collecting$stage that opened up! Let's go!
+@57
+It looks like a brand-new racing$stage has opened up! Come on!
+@58
+Hey, Kirby! You can go into a$brand-new hide-and-seek stage! 
+@59
+You can go out on a new stage!$Go and have some fun out there!
+@60
+Yo, Kirby! Looks like we can try$out a brand-new training stage!
+@@这五句等我心情好了再写
+@61
+布料 1
+@62
+布料 2
+@63
+Completion@63
+@64
+完成
+@65
+拉伸
+@66
+错误
+@67
+②: 选择
+@68
+旋转
+@69
+①: 返回
+@70
+切换
+@@Shift
+@71
+Motif 1
+@72
+Motif 2
+@@？？
+@73
+Plain@73
+@74
+Simple@74
+@75
+Pattern@75
+@76
+重新开始这个关卡？
+@77
+其它
+@78
+前往Wii的消息板
+@79
+确定
+@80
+删除照片
+@81
+不
+@82
+删除所有照片
+@83
+②: 选择
+@84
+②: 选择
+@85
+①: 返回
+@86
+①: 返回
+@87
+退出
+@88
+要玩 <X> 吗?
+@89
+墙壁
+@90
+地板
+@91
+Play@91
+@92
+单人游戏
+@93
+Do it@93
+@94
+双人游戏
+@95
+不要
+@96
+退出
+@97
+我从没见过这里如此热闹过！$现在在这里做点买卖很合适啊！
+@@great for business意义
+@98
+Sorry, there was a mad rush earlier.$I'm all out of goods...and bads. Ha!
+@@求教
+@99
+珠子
+@100
+时间
+@101
+宝物
+@102
+更改布局
+@103
+Streak@103
+@104
+拍照
+@105
+相册
+@106
+C'mon, I got other customers... Well,$not really, but do you want to trade?
+@107
+你找到了$补丁 <X> ！
+@108
+Hang on--let me get this straight.$So you don't want to trade?
+@109
+你找到了$布料 <X> ！
+@110
+你找到了$音乐 <X> ！
+@111
+P2
+@112
+已停止。$按②开始。
+@113
+Motif@113
+@@？？？
+@114
+相册已经满了。 如果你想添加照片，$请删除一些东西。
+@115
+②: 移动
+@116
+这样会删除照片。$你确定吗？
+@117
+①: 返回
+@118
+你真的想删除这些照片吗？
+@119
+<X>？对不起，我们已经卖完了！
+@120
+<X>？对不起，我们已经卖完了！
+@121
+请将Wii手柄$指向屏幕。
+@122
+请将Wii手柄横握。
+@123
+©2010 Nintendo / Good-Feel$©2010 HAL Laboratory, Inc. / Nintendo$可伸缩汉化组 汉化
+@124
+停止观看？$(你以后可以在*Patch Plaza 观看)
+@125
+3
+@126
+停止播放这个影片？
+@127
+2
+@128
+1
+@129
+GO!
+@130
+②: 选择
+@131
+已停止。$按②开始。
+@132
+SUCCESS!
+@133
+加载中...$请稍候。
+@134
+①: 返回
+@135
+播放中。$按②停止。
+@136
+OH NO!
+@137
+加载中...$请稍候。
+@138
+Characters@138
+@139
+GOAL!
+@140
+Kirby's Epic Yarn@140
+@141
+Kirby like you've never seen!@141
+@142
+小店上新货啦！$有时间就过来看看！
+@143
+确定
+@144
+跳过
+@145
+更换布料
+@146
+<Y>/<Z>/<X>
+@147
+停止
+@148
+拉伸
+@149
+拍摄于<X>
+@150
+旋转
+@151
+你和<X>一起拍了照片.
+@152
+切换
+@@Shift
+@153
+拍的不错！
+@154
+返回
+@155
+完成
+@156
+请横握Wii手柄
+@157
+请按②.
+@158
+存档 <X>
+@159
+使用哪个存档进行游戏？
+@160
+复制哪个存档？
+@161
+复制到哪里？
+@162
+删除哪个存档？
+@163
+使用存档<X>进行游戏？
+@164
+你有足够的珠子去$扩建你的公寓楼了！
+@165
+删除存档<X>？
+@166
+I would like to introduce you to my$brothers! Come back and see me!
+@@等看语境
+@167
+将存档<X>$复制到存档<Y>?
+@168
+删除这个存档真的没问题吗？
+@169
+新游戏
+@170
+时间
+@171
+完成<X>后$就可以玩这个！
+@172
+<X>
+@173
+<X>:<Y>:<Z>
+@174
+继续
+@175
+Controls@175
+@176
+退出
+@177
+Start Over@177
+@178
+你想要退出$并返回标题画面吗？
+@179
+确定
+@180
+Fight@180
+@181
+不
+@182
+单人游戏
+@183
+双人游戏
+@184
+Collection@184
+@185
+Come back soon!@185
+@@这是谁说的？
+@186
+Stop by anytime!@186
+@@这是谁说的？
+@187
+在<X>:<Y>以内$收集<Z>个珠子！$
+@188
+率先到达终点！$
+@189
+在<X>:<Y>以内$击倒<Z>个敌人！$
+@190
+在<X>:<Y>以内$将*Carrie送到指定位置！$
+@191
+在<X>:<Y>以内找到所有伙伴！$
+@192
+确定
+@193
+What are you trying to pull here, kid?$You don't got the beads!
+@194
+Yeah, right. You don't have$enough beads. C'mon!
+@@等我有心情
+@195
+要将照片发送到$Wii的消息板上吗？$
+@196
+要离开这个关卡吗？
+@197
+你的照片已经在Wii的消息板上了！
+@198
+确定
+@199
+已得到 <X>/<Y>
+@200
+③: 确定
+@201
+②: 确定
+@202
+You seein' things? There's nothing there!
+@203
+Are you seeing something I'm not?
+@@等我有心情
+@204
+确定
+@205
+确定
+@206
+不
+@207
+不
+@208
+②: Play@208
+@209
+②: 停止
+@210
+照片 <X>
+@211
+①: 返回
+@212
+<Y>/<Z>/<X>
+@213
+干的漂亮！你完成了<X>！
+@214
+Items 1@214
+@215
+保存照片
+@216
+Items 2@216
+@217
+相册
+@218
+复制存档
+@219
+Items 3@219
+@220
+退出
+@221
+返回
+@222
+CLEAR!
+@223
+完成
+@224
+你收集了<X>个珠子！
+@225
+删除存档
+@226
+Furniture@226
+@227
+KIRBY WINS!
+@228
+Objects@228
+@229
+Kirby, I've come over to play! Oh,$this is such a neat-looking room!
+@230
+你击倒了<X>个敌人！
+@231
+玩具箱
+@232
+Kirby, I've come over to play!$Oh, this room is so classy!
+@233
+P1
+@234
+你做到了！恭喜！
+@235
+Kirby, I've come over to play!$Oh, this room is so fun!
+@236
+你找到了所有伙伴！
+@237
+Kirby, I've come over to play!$This room is so cute! I love it!
+@238
+Kirby, I've come over to play!$This room is so stylish!
+@239
+再试一次？
+@240
+要离开商店吗？
+@241
+已卖完
+@242
+Trade@242
+@243
+Don't Trade@243
+@244
+TIME'S UP!
+@245
+相册
+@246
+你想离开这个关卡吗？
+@247
+确定
+@248
+不
+@@===============================================
+@249
+Revert@249
+@250
+请连接P2的Wii手柄
+@252
+返回
+@253
+要玩<X>吗？
+@254
+确定
+@255
+菜单
+@256
+要与<X>战斗吗？
+@257
+返回
+@258
+地图
+@259
+时间
+@260
+Object Area 1@260
+@261
+几个人进行游戏？
 @@===============================================
 @@请在这之前添加翻译文本
 @@以下是对部分全大写英文的恢复，请参阅Issue#2
