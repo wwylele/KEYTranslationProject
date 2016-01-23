@@ -1,5 +1,6 @@
 #pragma once
-#include <stdio.h>
+#include <cstdio>
+#include <cstring>
 #include <vector>
 using namespace std;
 

@@ -4,12 +4,13 @@
 #  - bpe encoding (http://www.csse.monash.edu.au/cluster/RJK/Compress/problem.html)
 import os
 import struct
-
+import sys
 import gfa_crc
 
-
-fileName=input("gfa file name:")
-
+if len(sys.argv)<2:
+	fileName=input("gfa file name:")
+else:
+	fileName=sys.argv[1]
 subfileList=[]
 crcTable={}
 currentSubfile=0

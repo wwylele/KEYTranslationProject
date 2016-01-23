@@ -1,4 +1,8 @@
-﻿#include <iostream>
+﻿#ifndef UNICODE
+#define UNICODE
+#endif
+
+#include <iostream>
 #include <string>
 #include <Windows.h>
 #include "Brfnt.h"

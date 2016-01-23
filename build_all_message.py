@@ -11,10 +11,10 @@ for message_label in message_list:
 		   "message_tran/"+message_label+".bin.txt "+
 		   "build/"+message_label+".bin")
 os.system("python brfnt/cjk_filter.py -o build/cjkset "+fileList)
-os.chdir("./brfnt/brfnt_mod/Debug/")
-os.system("brfnt_mod ../../../raw/GameFont1.brfnt ../../../build/cjkset ../../../build/GameFont1.brfnt")
-os.system("brfnt_mod ../../../raw/GameFont2.brfnt ../../../build/cjkset ../../../build/GameFont2.brfnt")
-os.chdir("../../../")
+os.chdir("./brfnt/brfnt_mod/")
+os.system("brfnt_mod ../../raw/GameFont1.brfnt ../../build/cjkset ../../build/GameFont1.brfnt")
+os.system("brfnt_mod ../../raw/GameFont2.brfnt ../../build/cjkset ../../build/GameFont2.brfnt")
+os.chdir("../../")
 os.system("python arc/gamefontx_cat.py raw/GameFont1ArcHeader "+
 		  "build/GameFont1.brfnt raw/GameFont1.gfa.extract/GameFont1.arc")
 os.system("python arc/gamefontx_cat.py raw/GameFont2ArcHeader "+
