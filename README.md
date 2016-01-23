@@ -11,10 +11,16 @@ This is a Chinese translation project for the game *Kirby's Epic Yarn*.
 
 ###工具说明
 
- - `gfa`: 用于拆包和重组gfa文件的工具，用python3编写。
-`gfa_encoder.py`运行前先要编译`bpe.c`为`bpe`，
-运行`gfa_encoder.py`时要将工作目录设为`bpe`所在文件夹。
+工具运行环境：Windows 32/64
 
- - `message_bin`: 用于拆包和重组文本文件的工具，用python3编写。
+工具运行前请先准备:
 
-*TODO* ...
+- gcc (或其它C/C++编译器，但需要手动编译源代码)
+- python 3
+- 从游戏ROM提取的子文件（所需文件的列表在这里），将它们放置到`./raw/`文件夹下
+
+工具使用方法：
+
+第一次使用前先运行`prepare.py`，以后就不用再运行这个了。
+
+每次构建时运行`build_all_message.py`，构建出来的游戏子文件会出现在`./build/`文件夹下，然后将这些文件替换掉ROM里的文件即可
