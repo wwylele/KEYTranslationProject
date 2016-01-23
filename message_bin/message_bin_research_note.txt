@@ -5,8 +5,8 @@ BIG_ENDIAN
 magic32 GFMC;
 u32 ?;
 u32 FileSize;
-u32 Table A pointer;//=0x1C
-u32 Table B pointer;
+u32 Table A pointer;//=0x001C
+u32 Table B pointer;//=0x081C ?
 u32 Table C pointer;
 u32 Table D pointer;
 
@@ -15,21 +15,21 @@ u32 Table D pointer;
 //Language Independence
 struct{
     u32 ?count;//can be zero
-    u32 id;// refer to item in Table B and C
+    u32 id;// refer to item in Table B
     
-}[?]
+}[0x100?]
 
 //Table B
 //Language Independence
 struct{
-    u32 ?
-    u32 ?
-    u32 ?
+    u32 ? //like a hash
+    u32 ? //often =1?
+    u32 OffsetInTableC? //Always increase by 4?
 }[?]
 
 //Table C
 //Language Dependence
-u32 ?[The same size as B?]//seems offset for elements in Table, relative to the begining of TableD
+u32 TextOffsetInTableD?[The same size as B?]
 
 //Table D
 //Text, Language Dependence

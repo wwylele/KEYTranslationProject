@@ -57,4 +57,6 @@ for PG in dic:
 		bin.write(TX.encode('utf_16_be'))
 	bin.write(struct.pack('>HH',0x000B,0x5047))
 	D=bin.tell()
+bin.seek(8,os.SEEK_SET)
+bin.write(struct.pack('>I',D))
 bin.close()
