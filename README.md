@@ -17,7 +17,10 @@ This is a Chinese translation project for the game *Kirby's Epic Yarn*.
 
 - gcc (或其它C/C++编译器，但需要手动编译源代码)
 - python 3
-- 从游戏ROM提取的子文件（所需文件的列表在这里），将它们放置到`./raw/`文件夹下
+- 从游戏ROM提取的子文件，将它们放置到`./raw/`文件夹下。所需文件有：
+- `/message/EnglishUS/` 目录下的所有文件
+- `/env/Common/GameFont1.gfa`
+- `/env/Common/GameFont2.gfa`
 
 工具使用方法：
 

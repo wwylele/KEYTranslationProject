@@ -1,6 +1,8 @@
 import os
 import sys
 os.chdir(os.path.dirname(sys.argv[0]))
+if not os.path.exists('./build'):
+	os.mkdir('./build')
 message_list=open('./list/message_list.txt','rU')
 fileList=""
 for message_label in message_list:

@@ -1,7 +1,11 @@
 import os
 import sys
 os.chdir(os.path.dirname(sys.argv[0]))
+
 os.system("compile_tool")
+if not os.path.exists('./raw'):
+	print("Please place all needed sub files in the folder 'raw'.")
+	exit(-1)
 os.system("python gfa/gfa_decode.py raw/GameFont1.gfa")
 os.system("python gfa/gfa_decode.py raw/GameFont2.gfa")
 

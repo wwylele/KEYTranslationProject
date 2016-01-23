@@ -11,6 +11,7 @@ if len(sys.argv)<2:
 	fileName=input("gfa file name:")
 else:
 	fileName=sys.argv[1]
+print("Decode",fileName)
 subfileList=[]
 crcTable={}
 currentSubfile=0
@@ -160,4 +161,4 @@ if comLen!=0:
 	fileIn.close()
 		
 fileIn.close()
-print("All finished!")
+print("finished!")
