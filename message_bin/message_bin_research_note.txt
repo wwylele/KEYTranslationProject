@@ -1,50 +1,65 @@
-BIG_ENDIAN
+GFMC file format is for storing game text in KEY
+A GFMC file has extension .bin, and magic "GFMC"(Good-Feel Message C?) at the begining of the file.
+All data are big-endian.
+The data is actually a hash table. Each piece of text (known as a 'paragraph') in the file is
+identified by a 32-bit hash value (the hash key is probably its 'name', but the hash function is
+unknown). The file consist of a file header and 4 sections following: 
+(A)buckets list, (B)entries list, (C)paragraphs list, and (D)text data.
+There is always 256 buckets, and paragraphs are allocated in buckets according to the lowest byte 
+of their hash value.
+For the same file of different launguage version, the data of section A and B is the same.
+When translating, the hash table structure can be ignored, and modify only section C and D.
 
-{
-//Header
-magic32 GFMC;
-u32 ?;
-u32 FileSize;
-u32 Table A pointer;//=0x001C
-u32 Table B pointer;//=0x081C ?
-u32 Table C pointer;
-u32 Table D pointer;
+struct Header{
+	u32 magic;            //="GFMC"
+	u32 version?;         //Always 0x00010000
+	u32 fileSize;
+	u32 offsetToSectionA; //Always 0x001C
+	u32 offsetToSectionB; //Always 0x081C
+	u32 offsetToSectionC;
+	u32 offsetToSectionD;
+};
+struct SectionA{ //buckets list
+	struct Bucket{
+		u32 entryCount;
+		u32 firstEntryIndex;
+		/* for a empty bucket, entryCount=firstEntryIndex;
+		   otherwise firstEntryIndex=prevBucket.firstEntryIndex+prevBucket.entryCount
+		   where prevBucket is the last none-empty bucket before this bucket
+		*/
 
-//0x1C:
-//Table A
-//Language Independence
-struct{
-    u32 ?count;//can be zero
-    u32 id;// refer to item in Table B
-    
-}[0x100?]
+	}buckets[256];
+};
 
-//Table B
-//Language Independence
-struct{
-    u32 ? //like a hash
-    u32 ? //often =1?
-    u32 OffsetInTableC? //Always increase by 4?
-}[?]
+struct SectionB{ //entry list
+	struct Entry{
+		u32 hash;                       //The lowest byte is always equal to 
+		                                //the index of bucket containing this entry
+		u32 paragraphCount?;            //Always 1
+		u32 offsetToElemtentInSectionC; //Always =4*entryIndex
+	}entries[...];
+};
 
-//Table C
-//Language Dependence
-u32 TextOffsetInTableD?[The same size as B?]
-
-//Table D
-//Text, Language Dependence
-struct{
-    u16 sequence[];
-    /* example sequence: ?
-	0x000A 0x5047 //Paragraph(PG) begin
-	0x000A 0x5458 //Text(TX) begin
-	0x0000 0x0009 //length
-	u16[9]        //utf-16
-	0x000A 0x5458 //Text(TX) begin
-	0x0000 0x0004 //length
-	u16[4]        //utf-16
-	0x000B 0x5047 //Paragraph(PG) end
-    */
-}[]
-
+struct SectionC{ //paragraph list
+	struct ParagraphInfo{
+		u32 offsetToDataInSectionD;
+	}paragraphs[...]; //The same size as entries in SectionB
 }
+
+struct SectionD{ //text data
+	struct ParagraphData{
+		u16 beginMagic;                  //=0x000A
+		u16 ParagraphMagic;              //="PG"
+		struct SubText{
+			u16 beginMagic;          //=0x000A
+			u16 subTextMagic;        //="TX"
+			u16 zero?;               //Or the high part of subTextLength?
+			u16 subTextLength;
+			u16 text[subTextLength]; //coded in UTF-16BE
+		}[...];                          //This size is rare to be more than 1
+		u16 endMagic;                    //=0x000B
+		u16 ParagraphMagic;              //="PG"
+	}data[...]
+}
+
+
