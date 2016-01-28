@@ -1,6 +1,7 @@
 import os
 import struct
 import sys
+import original_filter
 if len(sys.argv)<4 :
 	BinName=input("message file:")
 	NewBinName=BinName+".remake"
@@ -41,7 +42,11 @@ for row in txt:
 		current=int(row[1:])
 		dic[current]=[]
 	else:
-		dic[current].append(row.replace('$','\n'))
+		row=row.replace('$','\n')
+		for c in row:
+			if not original_filter.validChar(c):
+				print(">>>>Invalid character @",current)
+		dic[current].append(row)
 txt.close()
 
 D=Doff
