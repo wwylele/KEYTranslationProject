@@ -1,0 +1,59 @@
+GFA file, also known as GFAC file (Good-Feel Archive Compression?) by its magic, 
+is an compressed archive format used a lot in KEY.
+A GFA file contain one or more sub-files that can be extract after decompression.
+
+The compression algorithm is Byte Pair Encoding, which is described here:
+http://www.csse.monash.edu.au/cluster/RJK/Compress/problem.html
+
+The file data is little-endian (!), which is different from other common Wii data in big-endian.
+Notice that the GFA structure itself is little-endian, but the sub-files it contains can be big-endian.
+
+/* u32 means unsigned 32-bit integer */
+
+struct Header{
+	u32 magic;             //="GFAC"
+	u32 ?;                 //=0x300?
+	u32 ?;                 //=1?
+	u32 subfileTableOffset;//=0x2C? relative to the beginning of GFA file.
+	u32 subfileTableLength;
+	u32 GFCPSectionOffset; //relative to the beginning of GFA file.
+	                       //aligned by 16 bytes?
+	u32 GFCPSectionLength
+	u32 zero?;
+	u32 zero?;
+	u32 zero?;
+	u32 zero?;
+};
+
+struct subfileTable{
+	u32 subfileCount;
+	struct subfileInfoStruct{
+		u32 nameHash?     //hashed by an unknown function.
+		                  //the hash input is not the compressed data(!). Perhaps it is the file name.
+		                  //modifying this field will cause crashes in game.
+		                  //just keeping it and modifying the compressed data is OK.
+
+		u32 nameOffset;   //relative to the beginning of GFA file. 
+		                  //plus 0x80000000 if this is the last file
+
+		u32 subfileLength
+
+		u32 subfileOffset;//= GFCPSectionOffset + offset_relative_to_the_begining_of_decompressed_data 
+		                  //aligned by 16 bytes?
+
+	}subfileInfo[subfileCount];
+	struct subfileName{
+		char name[...];   //end with '\0'
+	}subfileNames[subfileCount];
+};
+
+struct GFCPSection{
+	u32 magic;//="GFCP"
+	u32 ?;//=1?
+	u32 ?;//=1?
+	u32 dataLengthBeforeCompression;
+	u32 compressedDataLength;
+
+	//Then followed by <compressedDataLength> bytes compressed data
+	...
+};

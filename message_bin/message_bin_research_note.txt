@@ -2,13 +2,16 @@ GFMC file format is for storing game text in KEY
 A GFMC file has extension .bin, and magic "GFMC"(Good-Feel Message C?) at the begining of the file.
 All data are big-endian.
 The data is actually a hash table. Each piece of text (known as a 'paragraph') in the file is
-identified by a 32-bit hash value (the hash key is probably its 'name', but the hash function is
+identified by a 32-bit hash value (the hash input is probably its 'name', but the hash function is
 unknown). The file consist of a file header and 4 sections following: 
 (A)buckets list, (B)entries list, (C)paragraphs list, and (D)text data.
-There is always 256 buckets, and paragraphs are allocated in buckets according to the lowest byte 
+There are always 256 buckets, and paragraphs are allocated in buckets according to the lowest byte 
 of their hash value.
 For the same file of different launguage version, the data of section A and B is the same.
 When translating, the hash table structure can be ignored, and modify only section C and D.
+
+/* u16 means unsigned 16-bit integer */
+/* u32 means unsigned 32-bit integer */
 
 struct Header{
 	u32 magic;            //="GFMC"
