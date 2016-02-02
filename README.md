@@ -19,8 +19,12 @@ This is a Chinese translation project for the game *Kirby's Epic Yarn*.
 
 工具运行前请先准备:
 
-- gcc (或其它C/C++编译器，但需要手动编译源代码)
+- gcc 或 msvc (或其它C/C++编译器，但需要手动编译源代码)
 - python 3
+
+注意设置好相关的环境变量。在PATH中添加python和gcc所在文件夹（`python.exe` 和 `gcc.exe`所在文件夹）。
+如果使用msvc的话，需要在运行`prepare.py`之前先运行msvc目录下的`vcvarsall.bat`设置好所有相关变量
+（可能的路径为`C:\Program Files\Microsoft Visual Studio 14.0\VC\vcvarsall.bat`）。
 
 Clone此Repo，在Repo根目录下创建文件夹`raw`。
 
