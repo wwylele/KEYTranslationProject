@@ -13,7 +13,7 @@ This is a Chinese translation project for the game *Kirby's Epic Yarn*.
 
 ###工具说明
 
-工具运行环境：Windows 32/64
+工具运行环境：Windows
 
 *工具尚不支持Linux等其它系统，因为工具`brfnt/brfnt_mod`中使用了Windows API。欢迎改进。
 
