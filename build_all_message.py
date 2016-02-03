@@ -12,6 +12,7 @@ for message_label in message_list:
 		   "raw/"+message_label+".bin "+
 		   "message_tran/"+message_label+".bin.txt "+
 		   "build/"+message_label+".bin")
+message_list.close()
 os.system("python brfnt/cjk_filter.py -o build/cjkset "+fileList)
 os.chdir("./brfnt/brfnt_mod/")
 os.system("brfnt_mod ../../raw/GameFont1.brfnt ../../build/cjkset ../../build/GameFont1.brfnt")

@@ -1,8 +1,16 @@
 import os
 import struct
-fileInName=input("message file:")
+import sys
+if len(sys.argv)<3 :
+	fileInName=input("message file:")
+	fileOutName=fileInName+'.txt'
+else:
+	fileInName=sys.argv[1]
+	fileOutName=sys.argv[2]
 fileIn=open(fileInName,'rb')
-fileOut=open(fileInName+'.txt','w',encoding='utf-8')
+fileOut=open(fileOutName,'w',encoding='utf-8')
+
+print(fileInName,">",fileOutName)
 
 fileIn.seek(0x14,os.SEEK_SET)
 Coff,Doff=struct.unpack('>II',fileIn.read(8))
