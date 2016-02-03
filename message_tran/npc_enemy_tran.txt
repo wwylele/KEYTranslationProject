@@ -1,209 +1,87 @@
-﻿NPC
-
-1、[フラッフ(Fluff)/Fluff]
-毛线王子
-fluffy英语里有毛绒绒的意思
-
-音译：弗拉弗（胜选）
-
-2、[クルリン(Kururin)/Zeke]
-房子里的，小游戏是捉迷藏
-
-音译：泽科（落选）
-      齐克（落选）
-      琪可（落选）
-      泽珂（胜选）
-
-3、[ガッチン(Gacchin)/Buster]
-クルリン来自クル旋转
-ガッチン来自ガッチ击碎的声音
-
-音译：巴斯特（胜选）
-
-4、 [ビータン(Biitan)/Beadrix]
-两边的语源都是Bead
-然后美版来自于人名Beatrix
-
-意译：小珠子（落选）
-      育碧（落选）
-音译：彼得里可丝（落选）
-      贝特丽克斯（落选）
-      贝特丽克丝（胜选）
-      碧翠丝（落选）
-
-5、[フミフミ(Fumifumi)/Mara]
-小游戏是赛跑
-
-音译：膜啦（续）
-      玛拉（胜选）
-
-6、[コロン/Carrie]
-
-音译：卡莉（胜选）
-      卡瑞（败选）
-
-小怪：
-
-1、ドロンブクロ/Sneak Sack
-
-音译：泥棒带（落选）
-      小偷袋子（落选）
-      小偷麻袋（胜选）
-      桥豆麻袋（落选）
-
-2、ギリノコ/Sawgill
-
-音译：剪切子（落选）
-      索吉尔（落选）
-意译：鳃锯鲨（胜选）
-      潜鲨兽（落选）
-
-3、コーラス/Freezo
-
-音译：弗罗森
-     
-意译：冰冻炮（落选）
-      寒冰炮（胜选）
-      冰冻哑炮（落选）
-      冰零炮（落选）
-
-4、ナンギー/Amprey
-
-音译：安培鳗鱼（落选）
-      埃姆普雷（胜选）
-意译：安培鳃鳗（落选）
-      七鳃鳗（落选）     
-      七培鳃鳗（落选）
-
-5、コクラッコ/Li'l Kracko
-
-音译：小克拉克（胜选）
-
-6、ボヨン/Boinger
-
-音译：啵一个（败选）
-      啵哟（胜选）
-意译：弹簧怪（败选）
-
-7、キャンドラー/Candlemander
-
-音译：坎德曼徳
-      
-意译：小火龙（落选）
-      炎之蜥蜴（落选）
-      火焰蜥蜴（落选）
-      蜡烛蜥蜴（落选）
-      烛火蜥蜴（落选）
-      烛光蜥蜴（落选）
-      炎烛蜥蜴（胜选）
-      吊灯蜥蜴（落选）
-      烛上蜥蜴（落选）
-
-8、ウィスピーウッズ/Whispy Woods
-
-音译：维斯比之树（胜选）
-
-9、キクラゲン/Sea Jelly
-
-意译：水母（落选）
-      深海水母（胜选）
-
-10、フエヘー/Whistle Soldier
-
-意译：哨兵（胜选）
-      笛兵（落选）
-
-11、ケンヘー/Sword Soldier
-
-意译：刀兵（胜选）
-
-12、ヤリヘー/Spear Soldier
-
-意译：枪兵（胜选）
-
-13、ホーヘー/Cannon Soldier
-
-意译：炮兵（胜选）
-
-14、イソキンチャク/Anemonee
-
-意译：绒毛海葵（落选）
-      海葵（胜选）
-      触手百合（落选）
-
-15、ヤリワドルディ/Spear Waddle Dee
-
-意译：长枪瓦多迪（落选）
-      茅瓦多迪（落选）
-      歪乐乐（胜选）
-      幸运E瓦多迪（落选）
-
-16、ワドルドゥ/Waddle Doo
-
-意译：瓦多度（胜选）
-
-17、ウッキー/Ooki
-
-音译：吱吱壕（落选）
-      吱吱（胜选）
-      芝芝（落选）
-      欧奇（落选）
-
-18、ボンバー/Bomber
-
-意译：烈焰火轮（胜选）
-      火焰轮（落选）
-
-19、フレイマー/Flamer
-
-意译：死亡炸弹（胜选）
-      巨爆弹（落选）
-
-20、ブリッパー/Blipper
-
-音译：波利普（胜选）
-
-意译：雷达鱼（落选）
-
-21、スカーフィ/Scarfy
-
-音译：斯卡菲（胜选）
-
-意译：掩饰子（落选）
-      双面怪（落选）
-
-
-22、アカブンブン/Buttonbug
-
-意译：纽扣虫（胜选）
-
-23、ブロントバート/Bronto Burt
-
-音译：墨点伯特（胜选）
-
-意译：迷蜂（落选）
-
-24、マルゾー/Cyclod
-
-音译：赛克洛德（落选）
-      克洛德（落选）
-      吴克洛德（胜选）
-
-
-25、ミドブンブン/Buttonfly
-
-意译：纽扣蝶（胜选）
-
-26、ゴロリン/Rolling Clod
-
-音译：旋克洛德（落选）
-      旋转克洛德（胜选）
-      滚克洛德（落选）
-
-27、ブンブン/Buttonbee
-
-意译：纽扣蜂（胜选）
-
-28、カラゲン/Space Jelly
-
-意译：太空水母（胜选）
+﻿NPC名
+[フラッフ(Fluff)/Fluff]弗拉弗
+[クルリン(Kururin)/Zeke]泽珂
+[ガッチン(Gacchin)/Buster]巴斯特
+[ビータン(Biitan)/Beadrix]贝特丽克丝
+[フミフミ(Fumifumi)/Mara]玛拉
+[コロン(Koron)/Carrie]卡莉
+
+其他：
+
+小怪名
+
+ドロンブクロ/Sneak Sack/小偷麻袋
+ギリノコ/Sawgill/鳃锯鲨
+コーラス/Freezo/寒冰炮
+ナンギー/Amprey/埃姆普雷
+コクラッコ/Li'l Kracko/小克拉克
+ボヨン/Boinger/啵哟
+キャンドラー/Candlemander/炎烛蜥蜴
+ウィスピーウッズ/Whispy Woods/维斯比之树
+キクラゲン/Sea Jelly/深海水母
+フエヘー/Whistle Soldier/哨兵
+ケンヘー/Sword Soldier/刀兵
+ヤリヘー/Spear Soldier/枪兵
+ホーヘー/Cannon Soldier/炮兵
+イソキンチャク/Anemonee/海葵
+ヤリワドルディ/Spear Waddle Dee/长枪瓦多迪
+ワドルドゥ/Waddle Doo/瓦多度
+ウッキー/Ooki/吱吱
+ボンバー/Bomber/烈焰火轮
+フレイマー/Flamer/死亡炸弹
+ブリッパー/Blipper/波利普
+スカーフィ/Scarfy/斯卡菲
+アカブンブン/Buttonbug/纽扣虫
+ブロントバート/Bronto Burt/墨点伯特
+マルゾー/Cyclod/吴克洛德
+ミドブンブン/Buttonfly/纽扣蝶
+ゴロリン/Rolling Clod/旋转克洛德
+カラゲン/Space Jelly/太空水母
+ライバルカー(Raibarukaa=Rivalcar)/Truck Monster/路霸
+トラッパー(Torappaa=Trapper)/(没有对应英文)/
+ツイッギーウッズ(Tsuiggiiuzzu=TwiggyWoods)/Twiggy Woods/特维基之树
+だれか(誰か)/Somebody/
+エンジィ(Enjy=Angie)/Angie/安吉
+ルーム・ウール(Ruumu Uuru=RoomWoole)/Dom Woole/毛房东
+カーグ・ウール(Kaagu Uuru=家具Woole)/Chaise Woole/毛装修
+ヌーノ・ウール(Nuuno Uuru=布Woole)/Loomis Woole/毛卖布
+デンデン(Denden)/Shelby/谢尔比
+サスゾー/Uniclod/独角克洛德
+ブンブン/Buttonbee/纽扣蜂
+ヒッキー(hikkii)/Slobba/大肥虫
+イモセン(Imosen)/Sulkworm/闷气虫
+ダンダン(Dandan)/Dandan/弹弹
+クララゲ(Kurarage)/Jelly Jr./小水母
+ヨーガンス(Yoogansu)/Calderon/小火山
+ラミー/Swadclod/木乃伊克洛德
+ヒノコンダ(Hinokonda)/Embaconda/火苗巨蟒
+バサバサ/Battins/纽扣蝙蝠
+ヒノコ/Emba/火苗
+フエカイヘー/Whistle Mariner/笛海兵
+ケンカイヘー/Sword Mariner/剑海兵
+ヤリカイヘー/Spear Mariner/枪海兵
+ホーカイヘー/Cannon Mariner/炮海兵
+トーセンボク(Toosenboku(像一个汉字词但是找不出来对应的字……))/Wicked Willow/维凯德柳树
+ミドワー(Midowaa)/Cutfish/千针鲶
+ヘーチョー(Heechoo=兵長)/Blast Mariner（和前面海兵系列呼应）/炸裂海兵
+アンドーラ(Andoora=Andra)/Danglerfish/晃晃鮟鱇
+ウキワサスゾー/Bobber Clod/浮标克洛德
+マグモグ(Magumogu=Magmog)/Magmotamus/岩浆河马
+ガジガジ(Kajikaji)/Snip-Snap/咔嚓咔嚓
+ゲイター(Geitaa=Gator)/Gator/咬咬鳄
+ワドルディ/Waddle Dee/瓦多迪
+グリゾー(Gurizoo=Grizzo)/Grizzo/格里佐
+シャッツォ(Shattso=Shotzo)/Shotzo/射击佐伊
+パラソルワドルディ/Parasol Waddle Dee/阳伞瓦多迪
+チリー/Chilly/雪丽
+フーセンワドルディ/Balloon Waddle Dee/气球瓦多迪
+ユーフォー/UFO/UFO
+ユミワドルディ/Bow Waddle Dee/弓箭手瓦多迪
+ゴルドー(Gorudoo=Gordo)/Gordo/尖刺戈多
+スペースブンブン(Supeesubunbun=SpaceBunbun；bunbun是纽扣蜂)/Orbitfly/太空纽扣蜂
+モクラゲン(Mokuragen)/Spore Jelly/孢子水母
+グミーン(Gumiin)/Dropso/小水滴
+バケオ(Bakeo)/Stogue/闪光浮灵
+ヒノコドリ(Hinokodori；前面出现了ヒノコ系列)/Embird（前面的Emba系列）/火苗鸟
+オドルタコス(odorutakosu=踊るタコs=跳跃或跳舞的乌贼)/Octopea/舞贼
+ステッチン(Sutecchin)/Soocher/针线头
