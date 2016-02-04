@@ -1,2 +1,292 @@
-﻿@@@
-待完成
+﻿@@by wwylele
+@0
+蹲伏
+@@Crouch
+@1
+加速
+@2
+游泳
+@@Swim
+@3
+加速@Boost@3
+@4
+毛线抽打
+@@Yarn Whip
+@5
+跳
+@@Jump
+@6
+拆散
+@@Unravel
+@7
+卷起
+@@Roll Up
+@8
+抛出
+@@Throw
+@9
+你可以按③$选择要放置的家具。$$未获得的物品$将会以灰色呈现。
+@@You can choose which$furniture to place with ③.$$Items you haven't found$yet will be grayed out.
+@10
+坦克机器人
+@@***
+@@TANKBOT
+@11
+飞碟
+@@SAUCER@11
+@12
+冲浪
+@@SPIN BOARDER@12
+@@***
+@13
+越野车
+@@OFF-ROADER
+@14
+消防车
+@@FIRE ENGINE
+@15
+挖掘机
+@@DIGGER
+@16
+火车
+@@TRAIN
+@17
+海豚
+@@DOLPHIN
+@18
+你也可以把物品拿走。$$选择物品,$然后按 「拿走」 按钮。$已拿走的物品会$恢复到它们的初始状态。
+@@You can also put items away.$$Select the item, then$select the Put Away icon.$Items you put away will$revert to their default settings.
+@19
+你现在可以$和朋友们玩啦。$$按「上」键$邀请他们玩游戏！
+@@You can now go play$with friends.$$Press up to invite them$to play a game!
+@20
+移动
+@@Move
+@21
+射击
+@@Shoot
+@22
+旋转攻击
+@@Spin Attack
+@23
+跳
+@@Jump
+@24
+移动
+@@Move
+@25
+挖掘
+@@Dig
+@26
+跳
+@@Jump
+@27
+102号房间
+@28
+铺设轨道
+@@Draw Tracks
+@29
+掉头
+@@U-Turn
+@30
+打开菜单选择 「更改布局」 ,$把你的房间重装成你想要的样子！$$你也可以将Wii手柄$指向屏幕并按下③$开始更改布局。
+@@Open the menu and$choose Change Layout$to redo your room$however you want! $$You can also point the$Wii Remote at the TV$and press ③ to change$the layout.
+@31
+坦克机器人
+@@***
+@@TANKBOT
+@32
+越野车
+@@OFF-ROADER@32
+@33
+火车
+@@TRAIN
+@34
+SPIN BOARDER
+@@***
+@35
+控制
+@@CONTROLS
+@36
+你还可以为一些家具$缝制你找到的布料。$$选择一个物品之后$试一试按 「缝制布料」 按钮吧。
+@@You can also reupholster some$furniture items with fabrics$you've found.$$See if you can reupholster an$item by selecting it and then$selecting the Reupholster icon.
+@37
+陆地上
+@@ON LAND
+@38
+水中
+@@IN WATER
+@39
+布置成这样！
+@@LIKE THIS!
+@40
+指引
+@@DIRECTIONS
+@41
+你也可以在墙$或地板上缝上布料。$$把房间变得富有个性吧！
+@@You can also put fabric$on the walls or floor.$$Customize your room!
+@42
+毛线抽打
+@@Yarn Whip
+@43
+跳
+@@Jump
+@44
+走
+@@Walk
+@45
+冲刺
+@@Dash
+@46
+拆散
+@@Unravel
+@47
+卷起
+@@Roll Up
+@48
+移动
+@@Move
+@49
+抛出
+@@Throw
+@50
+射击
+@@Shoot
+@51
+秤砣
+@@Weight
+@52
+跳
+@@Jump
+@53
+降落伞
+@@Parachute
+@54
+瞄准
+@@Aim
+@55
+按下①$将补丁抛出就能$开启新关卡！
+@@Press ① to throw$a patch and open$a new stage!
+@56
+加速
+@@Accelerate
+@57
+跳
+@@Jump
+@58
+铺设轨道
+@@Draw Tracks
+@59
+掉头
+@@U-Turn
+@60
+更改布局
+@@CHANGE LAYOUT
+@61
+菜单
+@@MENU
+@62
+201号房间
+@63
+放置物品
+@64
+202号房间
+@65
+缝制布料
+@66
+复制
+@67
+拿走
+@68
+壁纸
+@69
+火箭
+@70
+游泳
+@71
+毛房东的请求
+@72
+星舰
+@@STAR SHOOTER@72
+@@***
+@@目前借用Starship翻译
+@73
+澎湃攻击
+@@***
+@@Surge Attack
+@74
+和朋友一起玩
+@@PLAY WITH FRIENDS
+@75
+杂耍
+@@Play
+@@***
+@76
+放置补丁
+@@PLACE A PATCH
+@77
+移动
+@@Move
+@78
+射击
+@@Shoot
+@79
+跳
+@@Jump
+@80
+瞄准
+@@Aim
+@81
+Spring Punch
+@82
+Flying Punch
+@83
+Spin Punch
+@84
+旋转攻击
+@@Spin Attack
+@85
+盘旋
+@@Hover
+@86
+跳
+@@Jump
+@87
+将指针放到按钮上$并按下③选择。$$完成之后$选择右下角的按钮。
+@@Place the pointer on$an icon and press ③$to select it.$$Select the icon on$the bottom right$when you're done.
+@88
+你也可以复制物品！$$按 「复制」 按钮,$然后按下③$选择你要复制的物品。
+@@You can also copy items!$$Select Copy and then$select the item you wish$to copy by pressing ③.
+@89
+毛房东需要你的帮助！$$将正确的家具$摆放到阴影处。
+@@Dom Woole needs$your help!$$Place the correct$furniture in the$shadowed areas.
+@90
+推进
+@@Thrust@90
+@91
+射击
+@@Shoot
+@92
+移动
+@@Move
+@93
+捕获射线
+@@Capture Beam
+@94
+雷霆火花
+@@Thunder Spark
+@95
+移动
+@@Move
+@96
+喷水
+@@Spray
+@97
+跳
+@@Jump
+@98
+301号房间
+@99
+302号房间
+@@@
+这个测试起来挺不方便的……
