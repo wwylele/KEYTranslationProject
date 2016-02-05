@@ -316,7 +316,7 @@
 瓦多迪
 @127
 @@Like to decorate with$toast? Then you're at the$right place, my friend. 
-喜欢用烤面包装饰吗？$亲，你来对地方了！
+喜欢用烤面包装饰吗？$亲, 你来对地方了！
 @128
 格子框架
 @129
