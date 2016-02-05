@@ -1,2 +1,844 @@
-﻿@@@
-待完成
+﻿@@by万星
+@0
+沙漏
+@1
+云地毯
+@2
+雪丽
+@3
+@@You know a sandwich has$been made with love when$the crusts are cut off. 
+当面包边被切开时, $你就知道这个三明治是用爱制作出来的。
+@4
+望远镜
+@5
+太空食品
+@6
+王之宝座
+@7
+@@This novelty light looks$like a big mushroom.$Maybe it'll grow on its own! 
+这盏新奇的灯看上去像个大蘑菇。$也许它会自己成长！
+@8
+针织帽沙发
+@9
+@@This Bronto Burt is so soft!$I wanna take him out to the$park so I can watch him fly! 
+这个墨点伯特真是太舒适了！$我想带他去公园, 这样我就可以看他飞了！
+@10
+图腾柱
+@11
+@@Molten rocks emit a$warm glow, but don't$hang your coat here! 
+融化的岩石发出温暖的光芒, $但不要把你的大衣挂在这里！
+@12
+简炼的沙发
+@13
+披萨
+@14
+@@This umbrella stand$uses its magic frog power to$bring you all lost umbrellas!
+这把雨伞架会使用它的魔法青蛙之力$让你全部的雨伞丢失！
+@15
+甜甜圈枕头
+@16
+骑士头盔
+@17
+@@This sharp-dressed$dresser can store all$of your tuxedos! 
+这个装饰得体的梳妆台可以$存储你所有的礼服！
+@18
+弹性座垫
+@19
+@@Frog Mirror
+青蛙镜子
+@20
+@@This is actually a piggy$bank! Don't let your$pirate friends see it! 
+这实际上是一个存钱罐！$不要让你的朋友看到它！
+@21
+土星台灯
+@22
+小鼓
+@23
+@@Wax fruit doesn't start bad,$but it ends bad if you try to$eat it. Trust me on that one! 
+打蜡水果其实不糟糕, $但如果你尝试去吃就是另一回事了, $请相信我！
+@24
+彩虹拱门
+@25
+星星花环
+@26
+@@This ottoman is great,$but what is it filled with? 
+这个脚凳非常好, $但是里面填充着什么呢？
+@27
+陈列架
+@28
+花束花瓶
+@29
+@@This camel pillow has two$humps. One for you and$one for a friend!
+这个骆驼枕头有两个驼峰, $一个给自己一个给朋友！
+@30
+海葵沙发
+@31
+@@You can arrange$your books in here$any way you want! 
+你可以把你的书$以你想要的方式安置在这里！
+@32
+落地台灯
+@33
+@@It's a giant Waddle Doo. I love$these guys! He's got only$one eye! That's pretty cool. 
+这是一个巨大的瓦多度！我喜欢这些家伙！$他居然只有一颗眼睛！这真是太酷了！
+@34
+南瓜
+@35
+@@It's full of vitamins,$but it just might turn$your clothes orange!
+它含有丰富的维生素, $但它可能会把你的衣服染成橙色！ 
+@36
+@@Ever feel like you're$inside a computer? Then$this is the rug for you. 
+感觉自己像是在电脑里？$话说回来, 那是你的地毯。
+@37
+普通的椅子
+@38
+@@I think a square$rug makes a bold$statement, don't you? 
+我认为正方形地毯是醒目的表现, $你不这么想吗？
+@39
+麦克风
+@40
+蛋糕
+@41
+@@This hanging planter is$good for plants that have$a fear of the ground. 
+这个悬挂式花盆对害怕地面的植物非常有帮助。
+@42
+魔法地毯
+@43
+气泡苏打
+@44
+@@Keep this fireplace fed$with logs, and you'll be$happy for the holidays. 
+持续用把原木放进壁炉, $你将会有一个快乐的假期。
+@45
+梳妆台
+@46
+树桩蛋糕
+@47
+@@I think all of the fish$are hiding right now...$scaredy-fish. 
+我认为所有的鱼都躲了起来,$……鱼好胆小。
+@48
+通讯器
+@49
+@@This sofa is perfect for$kicking off your shoes$and resting your feet!
+当你脱下鞋子时可以让脚休息, $这个沙发是极好的！
+@50
+镖靶
+@51
+@@This fake steak has a pat$of butter on top. You eat$your steak like that? 
+这个假牛排上面有一块黄油, $你吃的牛排也是这样子吗？
+@52
+吊灯
+@53
+雪人
+@54
+@@This bed is made of$springy mushrooms that$make for bouncy naps! 
+这张床是为了能够轻快地小睡$而采用了弹力蘑菇制成。
+@55
+@@This is an ice-cream sculpture$from another tropical$paradise I have yet to visit...
+这是一个来自其他热带乐园的冰淇淋, $我从来没有去过那里…
+@56
+大梳妆台 
+@57
+@@This square cushion$tells the world that$you are totally cozy. 
+全世界都知道坐着这个方形坐垫会很舒服！
+@58
+@@This meat is straight out$of a caveman cartoon!$Mmmm... Grog need fire! 
+这块肉直言说自己是卡通穴居人！$嗯…熟料需要火！
+@59
+宝藏地毯
+@60
+@@This transports trash to a$different dimension! The$future is a great place!
+这个交通工具能到达不同维度！$未来是一个不错的地方！
+@61
+旋转式电话
+@62
+@@This could be the start$of your brilliant career as$an artist! You never know. 
+你永远不知道, $这可能是你作为一名辉煌艺术家事业的开始！
+@63
+@@This is a large drum used at$festivals. I'm not sure about$that, but it looks festive, eh? 
+这是在节日时用的大鼓, 我不太确定, $但是这个看上去很有节日气息, 嗯？
+@64
+甜点梳妆台
+@65
+@@It's always time for a$little sunshine with$this timepiece! 
+这个时钟总是渴求一缕阳光。
+@66
+@@Now this is a sleigh that is$always ready for a snowy ride$through the hills! 
+这个雪橇总会在从雪山滑下前做好准备。
+@67
+盖拉西亚之剑
+@68
+@@This storage unit is great for$getting stuff out of the way. 
+这个储存设备的伟大之处在于$它让东西出来的方式。
+@69
+电吉他
+@70
+@@This window planter really$brightens up any sill. You got$a sill? Put this up on there!
+这个窗台花架真的能照亮全部窗台, $你有窗台吗？把它放上去吧！
+@71
+土星甜甜圈
+@72
+@@I hear that retired pirates$make these all day long! 
+我有一天听说退休的海盗整天都是这样！
+@73
+精美的床
+@74
+@@My brother says that this$is one of the best sewing$machines beads can buy!
+我哥哥说, 这是可以用珠子$买到的最好的缝纫机之一。
+@75
+@@This floor mat makes me$wonder why there aren't$more giant chocolate bars!
+这地板垫使我想知道$为什么没有更多的大条巧克力！
+@76
+节日树
+@77
+@@This is a miniature version$of the Bonus Bells that you$see everywhere around here.
+这是一个迷你奖金钟, $你看所有都围绕着这里。
+@78
+古老的钟
+@79
+@@You may think it's a phone,$but it isn't. It's not a phone$at all. That's just its name. 
+虽然名字里带“琴”, $却不能弹出声来, 得用小棍敲才行。
+@80
+@@Some say that this$decorative object$has healing powers. 
+有人说这个装饰物有治疗的力量。
+@81
+@@These pancakes are$piled dangerously, and$deliciously, high. 
+这些薄煎饼被堆积的很高危很险又很美味。
+@82
+桌子
+@83
+@@This mirror needs to be$mounted on a wall, or else$it tends to roll around.
+这面镜子需要安装在墙上, $否则就要滚到地上了。
+@84
+@@Squirrels and lumberjacks$can relax here peacefully.$Just not at the same time! 
+松鼠和伐木工人可以在这里放松平静。$只是不能在同一时间！
+@85
+@@This digital clock is easy$to read even when the$lights are out! 
+当灯亮了的时候$这个数字时钟很容易看时间。
+@86
+电视机
+@87
+@@This UFO might still have some$aliens inside it. I keep a sharp$eye on it as much as I can...
+这个UFO可能有外星人在里面, $我尽我所能一直盯着它。
+@88
+@@This chimney is stuffed$with toys. Get a plunger$and save this holiday! 
+这个烟筒里塞满了礼物, $想办找点东西把它法疏通了吧！
+@89
+@@This dresser only has one$drawer. Be sure to fill it wisely! 
+这个梳妆台只有一个抽屉。$一定要理智地放满东西！
+@90
+火车
+@91
+@@This light has one switch for$light and one for electric$shocks! Guess which is which!
+这个灯有一个开关是真正的开关, $另一个开关会让你触电！$猜猜哪个是哪个吧！
+@92
+菱形地毯
+@93
+@@This is a nice fridge for snacks.$It'll save a lot of space, too. 
+这是一个能很好存储零食的冰箱, $它同样可以节省很多空间。
+@94
+@@The coconut on this chair$is actually a very comfortable$cushion for your head! 
+这把椅子上的椰子$实际上对你的头部$是一个非常舒服的缓冲垫！
+@95
+壁灯
+@96
+@@These are good for$people who can't$afford electric guitars. 
+对于那些买不起电吉他的人而言这是极好的。
+@97
+@@This window shows$you what it looks like$outside...in the future! 
+这个窗口可以展现你在未来的样子…！
+@98
+@@This bed gives a good$night's sleep, even in$the middle of the day! 
+这张床甚至在中午$都可以给你一个很好的睡眠！
+@99
+@@This clock can be seen from$anywhere in the room.
+这只钟可以从房间的任何地方看到。 
+@100
+@@This cute table just screams$for a little vase...well, not$literally, but you get me.
+这只可爱的桌子哭闹着要一个小花瓶$…好吧, 不是字面意思, 你懂的。
+@101
+蒸汽船
+@102
+@@This TV might take up most of$the wall in your place. I'm sure$that's OK with you, eh? 
+这台电视机可能占用了大面积墙。$我相信你不会介意的, 对吧？
+@103
+@@This funky thing would$be perfect for a summer$drive. Will you take me? 
+这个有趣的东西刚好合适夏日兜风, $你要去兜风的话, 能带上我吗？
+@104
+梅塔骑士
+@105
+@@Never eat in the dark.$That's my biggest rule.$There's just no reason to... 
+永远不在再黑暗中吃东西。$这是我最大的原则, $因为没有理由去…
+@106
+白云枕头
+@107
+煎蛋
+@108
+太阳钟
+@109
+锡制机器人
+@110
+斯卡菲
+@111
+@@This coffee was made with$beans from somewhere$sunny that I've never been. 
+这是由阳光充沛的地域生长的豆子制成的咖啡, $虽然我从来没去过那里。
+@112
+骆驼沙发
+@113
+星形糖果
+@114
+喷泉
+@115
+雪之钟
+@116
+@@This plush Bomber won't$explode if you touch it. No,$really...go ahead. Heheh... 
+你碰到烈焰火轮了, 它也不会爆炸的.$…不, 真的, 咱们还是走吧, 嘿嘿嘿…
+@117
+桅杆
+@118
+@@This coffee-table crystal$would be perfect for the$lobby of a psychic. 
+这枚茶几上的水晶能够让人放松身心。
+@119
+圆桌
+@120
+寿司
+@121
+@@This bath is nice for$bringing the outdoors$to the indoors! 
+这个浴缸好在能把室外带入室内！
+@122
+玩具钢琴
+@123
+火把
+@124
+@@This astounding fossil$was discovered in an$ancient sea. Beautiful!
+这令人惊奇的化石$是在一个古老的海洋里发现的。$真美！
+@125
+维斯比之树
+@126
+瓦多迪
+@127
+@@Like to decorate with$toast? Then you're at the$right place, my friend. 
+喜欢用烤面包装饰吗？$亲，你来对地方了！
+@128
+格子框架
+@129
+太空桌子
+@130
+@@These toys can be pretty$unpredictable...and scary!
+这些玩具十分出乎意料的…吓人！
+@131
+圆形地毯
+@132
+花瓶
+@133
+@@This hourglass uses$stardust to tell you$when the stars are out! 
+这个沙漏用星尘告诉你星星出来了！
+@134
+熊形大床
+@135
+@@Lie down on this$fluffy rug to feel like$you're on cloud nine. 
+当躺在这张蓬松的地毯上, $你会感觉自己在九层云上。
+@136
+台灯
+@137
+@@A giant Chilly. Don't worry--$it's not cold. It's kinda warm,$and a little mushy, actually...
+一个巨大的雪丽。$别担心--它不冷。$它很温暖, 还有些伤感, 真的…
+@138
+月亮钟表
+@139
+@@This telescope is perfect for$stargazing on a clear night.
+这架望远镜能眺望到到更清晰的夜空。
+@140
+@@These are replicas of real$astronaut food! Space chefs$must be really dry people.
+这些是宇航员所吃的真实食物的复制品！$太空厨师一定是真正枯燥的人。
+@141
+漂亮的椅子
+@142
+火鸡
+@143
+@@You'll feel like a king$when you sit on this$gold-plated throne! 
+当你坐在这镀金宝座, $你会觉得自己像一位国王！
+@144
+填充玩具熊
+@145
+迪迪迪的长袍
+@146
+@@This knit-cap sofa$will tickle your head$with warm fuzzies. 
+这个针织帽沙发会让你的头又热又痒。
+@147
+圆垫
+@148
+仙人掌汁
+@149
+@@This totem pole sports a few$faces you may recognize! 
+这根图腾柱能转动出几张$你可能认识的老面孔！
+@150
+火箭床
+@151
+@@This sofa just might$be TOO comfortable! 
+这座沙发实在是太·舒·服啦！
+@152
+野餐篮子
+@153
+@@You like pizza? Well$here's pizza you can sit$on or put on your wall. 
+你喜欢披萨吗？好吧, $这有块你可以坐下来或者挂在墙上的披萨。
+@154
+花朵沙发
+@155
+雪花玻璃球
+@156
+@@This delicious-looking$cushion would be at$home in a cafe. 
+这张看上去很好吃的坐垫$应该在家中的咖啡里。
+@157
+@@Putting on this mask gives one$a sense of mystery...and a$sense of sitting in the dark.
+戴上这个面具时会有一种神秘感, $…一种在黑暗中坐着的感觉。
+@158
+衣柜
+@159
+@@This triangular cushion is$good for making awkward$corners comfortable! 
+这个三角形的坐垫很适合放在角落里！
+@160
+盆栽植物
+@161
+@@Your head is not being eaten$by a frog. It's just the mirror,$trust me. Just relax. 
+你的头不会被一只青蛙吃掉。$这只是镜子, 相信我。$放松下来。
+@162
+悬挂的灯
+@163
+@@The rings around the$planet on this stand$glow only at night. 
+这个行星上的光环只在夜晚才会发光。
+@164
+电话
+@165
+@@This drum is good for$marching. I dunno, you$do a lot of marching? 
+这个鼓非常适合用在行军上, $我不知道你有没有参加过行军？
+@166
+谱号树
+@167
+@@With this arch, you can$see a rainbow anytime!
+有了这个拱门, 你可以随时看见彩虹！
+@168
+@@This sparkling holiday$wreath is shaped like$a star. Pretty nice! 
+这个闪闪发光的节日花圈像一颗星星。$非常漂亮！
+@169
+星星床
+@170
+@@This finely crafted display$stand has patterned edges. 
+这精美的展示架的边缘处有图案作装饰。
+@171
+小号
+@172
+@@Now take a look at this.$This vase just explodes$with life...and flowers, I guess.
+现在看看这个吧, $我猜这个花瓶是在绽放生命和…花。
+@173
+墨点伯特滑块
+@174
+苹果桌子
+@175
+@@This anemone chair looks$comfy, but it feels a bit$strange... Go ahead, try it! 
+这朵银莲花椅子看起来舒服, $但感觉有点怪怪的…$去吧, 坐下来试试！
+@176
+长镜
+@177
+@@If you need to light$a whole room, this$tall lamp works nicely. 
+如果你需要照亮整个房间, $用这盏高台灯刚刚好。
+@178
+@@This pumpkin looks great as$a quaint decorative item. 
+这个南瓜看起来像一个奇特的装饰物。
+@179
+太空监视器
+@180
+@@This chair is perfectly$normal--hence the name. 
+这把椅子十分普通--因此而命名。
+@181
+篮筐
+@182
+@@This microphone even$makes me sound like a$dreamy crooner!
+这个麦克风甚至让我听起来像一个梦幻歌手！
+@183
+@@This cake is decorated$with strawberries and$blueberries. Berry good! 
+这个蛋糕是用草莓和蓝莓装饰的。$浆果赛高！
+@184
+企鹅镜子
+@185
+@@This carpet has the$power to fly! But it's$much safer on the floor. 
+这地毯有能飞起来的力量！$但还是在地板上更安全。
+@186
+@@This bubbly soda looks$like it's filled with flavors!$Try displaying it on a table.
+这个气泡苏打水看上去清香四溢！$把它放在桌子上吧。
+@187
+电视柜
+@188
+@@This is a great place to just$sit and stare at yourself all$day... Or so I've heard.
+这是一个坐着, $并天天盯着自己的好地方$…我是这么听说的。
+@189
+@@This log cake looks like it has$a cream center that probably$tastes better than wood!
+这块树桩蛋糕看起来中间像是有奶油, $味道大概会比木头好！
+@190
+@@You can talk to aliens on this.$Just be sure that you can$afford the roaming charges. 
+如果你确保能付得起漫游费的话, $你可以和外星人通话。
+@191
+冰箱
+@192
+@@This authentic dartboard$was once used in an$authentic competition. 
+这种真正的飞镖曾经在真正的比赛用过。
+@193
+@@This chandelier is very$simple and very elegant.$You can't go wrong here.
+这个吊灯很简单、很优雅。$你不能错过了这里
+@194
+@@This snowman won't melt$at room temperature.$Go ahead, take him. 
+这个雪人不会在室温下融化。$带上它进去吧。
+@195
+迪迪迪的城堡
+@196
+@@This dresser is nice for$separating clothes that don't$get along with one another.
+这个梳妆台$能很好的分离开不能放在一起的衣服。 
+@197
+直升飞机
+@198
+@@Feel like you inherited$a fortune as you lie$on this dazzling rug! 
+当你躺在这令人眼花缭乱的地毯上时, $你觉得自己继承了一大笔钱！
+@199
+布料框架
+@200
+@@This is a rotary phone.$You turn the wheel to$dial numbers. No, really! 
+这是一个旋转式手机。$你可以转动轮子去拨号。$不, 这是真的！
+@201
+@@This dresser will make you$reach for a spoon...and your$elastic-waistband pants!
+看到这个梳妆台, 你就想换上弹性腰带裤$...然后拿一把大勺过来！
+@@这个梳妆台会使你得到一个勺子$…和弹性腰带裤！
+@202
+@@Keeping this sword$around will make you$dashing and decorative. 
+这把剑将是让你保持潇洒的装饰品。
+@203
+闹钟
+@204
+@@These are good for$people who decided not$to buy an acoustic guitar. 
+对于那些不想买木吉他的人而言这是极好的。
+@205
+@@These mysterious donuts$sure smell like they're$out of this world! 
+这些神秘的甜甜圈闻起来的味道肯定来自外界!
+@206
+@@If you toss and turn,$you'll still wake up in$the middle of this bed. 
+不管你在这张床上怎么折腾,$你醒来的时候依然会在床的中央。
+@207
+@@Just looking at this$tree is sure to bring$back good memories.
+只要看着这棵树就一定会带来美好的回忆。 
+@208
+长垫
+@209
+@@Some call this a grandfather$clock. Some call this an old$clock. Some just call it a clock.
+有人说这是一个远古的钟。$有人说这是一个古老的时钟。$有人说它只是个钟。
+@210
+@@This table is actually very$functional, considering$how low to the floor it is.
+从它距离地板那么低来看,$这张桌子实际上十分实用！
+@211
+摇摆木马
+@212
+@@This classic only had$one owner! Well, maybe$two. Alright, it's old, OK? 
+这个古董只有过一位主人！$好吧也许有两个, 它已经很旧了, 不是吗？
+@213
+@@This thing is capable of pulling$a caboose! So, you want to$take it home or not? 
+这个东西能带动火车！$那么, 你想把它带回家吗？
+@214
+@@This diamond-shaped rug could$also be a square-shaped rug$if you turned it a bit...
+如果你把这个菱形地毯转动一点的话, $它也可以是一个方形的地毯… 
+@215
+迪迪迪大王
+@216
+@@Attach this to a wall$and BOOM! You got$light on the wall! 
+把这个固定在墙上, $这样你的墙会亮起来。
+@217
+三明治
+@218
+@@This boat here is the envy$of all steamboat enthusiasts.$That was news to me!
+这艘船被所有蒸汽船好者所羡慕, $我第一次听说这个耶！
+@219
+蘑菇台灯
+@220
+墨点伯特
+@221
+石灯
+@222
+青蛙伞支架
+@223
+企鹅收集柜
+@224
+@@Meta Knight was pretty$embarrassed when he saw$this cuddly version of himself!
+当梅塔奈特看到这个可爱的自己时会十分尴尬~！
+@225
+财宝箱
+@226
+水果钵盘
+@227
+@@This fluffy cloud pillow is$99% comfy with a good chance$of sleep in the evening.
+在晚上睡觉时, 这种蓬松度99%的云朵枕头$会让你感觉十分舒适。
+@228
+巧克力座椅
+@229
+骆驼枕头
+@230
+书架
+@231
+瓦多度
+@232
+@@Someone put real ketchup on$this fake omelette! Ha ha ha!$...Oh, wait a sec, I did that.
+有人把真正的番茄酱挤在这个假煎蛋上！$哈哈哈！…哦, 等等, 是我这么做的。
+@233
+胡萝卜梳妆台
+@234
+电路地毯
+@235
+@@This sunny clock gives off$a warm glow. Ahhhh... 
+这个阳光时钟发出了温暖的光芒。啊～…
+@236
+地毯
+@237
+悬挂盆栽
+@238
+@@This tin robot is a very$expensive vintage$item sought by collectors. 
+这个十分昂贵的老式机器人$受到过收藏家们的追捧。
+@239
+壁炉
+@240
+@@This is a huge, soft$Scarfy. They're cute$when they're like this! 
+这是一个巨大的, 柔软的斯卡菲。$当他们像这个的时候非常可爱！
+@241
+水族箱
+@242
+@@Sitting on this sofa will$make you feel like a$desert king of comfort! 
+坐在这张沙发上$会让你感觉十分舒适, $像一位沙漠之王！
+@243
+@@This candy is imbued with$the power of stars. It has$an extremely intense flavor.
+这颗糖果充满了星之力, $它的味道极其强烈。
+@244
+沙发
+@245
+牛排
+@246
+@@This fountain is perfect$for any room...that is big.$Any room that is REALLY big.
+这个喷泉是适合任何一个很大房间$……非·常·大的房间！
+@247
+蘑菇床
+@248
+冰淇淋
+@249
+@@This delicate clock plays$a chiming melody that$sounds like snow falling. 
+这钟声旋律微弱, 听起来像飘落的雪花。
+@250
+垫子
+@251
+漫画食物
+@252
+@@Putting this in your room$may lead to random$bouts of swashbuckling! 
+把这个放在房间里可能会$随时觉得自己像名海盗。
+@253
+宇宙仓
+@254
+@@This table looks good no$matter where you put it!
+这张桌子不管放在那里都看着很顺眼！
+@255
+彩色画板
+@256
+太鼓
+@257
+@@Look, if you like sushi,$just don't eat this. It's$not actually food, OK? 
+看, 如果你喜欢寿司, 就别吃这个。$这不是食物的, 对吧？
+@258
+花之钟
+@259
+雪橇
+@260
+@@This piano may look like$a toy, but it really has$a solid tone.
+这架钢琴可能看起来像一个玩具, $但它确实有着坚实的音调。
+@261
+盒子
+@262
+矩形花盆
+@263
+@@This flaming torch can$really brighten up any$dungeon, lair, or foyer.
+这燃烧的火把, 真的可以照亮任何$副本, 巢穴, 或门厅以及情侣。
+@264
+海盗船
+@265
+@@Someone has carved the$face of Whispy Woods$onto this large tree.
+有人在维斯比之树的脸上刻字。
+@266
+缝纫机
+@267
+@@This is a giant cuddly$Waddle Dee. Don't you just$wanna squeeze it? Do it! 
+这是一个巨大的毛绒瓦多迪。$你不是想捏捏它吗？做吧！
+@268
+巧克力条
+@269
+@@This lattice is covered$in sweet-pea vines. 
+这个格子框架是覆盖在甜豌豆的藤蔓。
+@270
+@@This table from the future$is rumored to make food$automatically!
+这张来自未来的桌子传言能自动制作食品！
+@271
+挂钟
+@272
+@@This round, pink carpet kind$of reminds me of someone I$know. Hmmm... 
+这粉红色的地毯, $让我想起我认识的一个人。嗯..
+@273
+木琴
+@274
+@@This elegant vase holds$one flower, in case a$bouquet is too much. 
+这精美的花瓶只能放一枝花, $免得一束花太多。
+@275
+金字塔
+@276
+烙饼
+@277
+@@This cuddly bed keeps$your head cool and$your body warm.
+这个可爱的床能让你冷静$并让你的身体保持温暖。
+@278
+墙镜
+@279
+@@This can go on a small$table...or in a really$small room, I suppose.
+我想…这可以放在一个小桌子上$…或在一个很小的房间里。 
+@280
+树桩床
+@281
+@@This moon clock gives$off a gentle light and$goes dark once a month. 
+这个月亮时钟能发出柔和的光, $但一个月后就变暗了。
+@282
+数字显示式时钟
+@283
+@@This chair is quite elegant$in its simplicity. 
+这把椅子很漂亮, 很简朴。
+@284
+飞碟
+@285
+@@You like leftovers? I sure do!
+你喜歡剩飯吗？我很喜歡呀！
+@286
+烟囱
+@287
+@@This guard bear lost his$post when he was caught$napping on the job!
+当这个熊保卫在工作中打盹并被发现时, $它就会被炒鱿鱼！
+@288
+@@This luxurious robe is$amazingly comfy, even$if it is a little big. 
+这件豪华的长袍极其舒适, $尽管它有点大。
+@289
+小梳妆台
+@290
+@@This round cushion reminds$me of someone, but I just can't$place my finger on who...
+这让我想起了某人的圆垫, $但我不能用手指指向他…
+@291
+@@Cactus juice is an acquired$taste. It has a kick to it! 
+尝一尝仙人掌汁的味道……$这玩意后劲真大！
+@292
+水母灯
+@293
+@@Sleeping in this bed$may cause dreams of$being a space case. 
+在这张床上睡觉可能会梦到宇宙的空间。
+@294
+迷你冰箱
+@295
+@@There's an entire picnic$in this basket, complete$with sparkling cider! 
+在这个篮子里有野餐吃的食物$和满是泡沫的苹果酒。
+@296
+@@This cute sofa will$always smell like a$fresh bouquet! 
+这座可爱的沙发闻起来总有一股新鲜的味道！
+@297
+@@It never stops snowing inside$this globe. Can you see any$little shovels in there?
+球里的世界在永不停息的下着雪。$你在里面能看到小铲子吗？
+@298
+棕榈树椅子
+@299
+@@This wardrobe has double$doors that open outward. 
+这个衣柜有两扇向外开的门。
+@300
+吉他
+@301
+@@The leaves on this baby are$nice and big. Just perfect$for hiding behind! 
+在这个婴儿身上的叶子又大又好, $可以完美地藏一个人！
+@302
+舷窗
+@303
+@@This thoughtful$night-light goes out$when you fall asleep. 
+在你睡着的时候, $这盏灯会体贴的熄灭。
+@304
+普通的床
+@305
+@@This is a push-button$phone that has a nice$video display on it. 
+这是一个按钮式手机, $它有一个不错的显示器。
+@306
+@@This tree plays a melody$when you shake it. Just$try not to overdo it, however.
+当你摇动这棵树时, 它会演奏旋律。$但是, 不要做得太过火。
+@307
+@@This star-shaped bed casts$a gentle glow as you sleep! 
+这颗星星状的床在你睡觉时会有一种温柔的光芒！
+@308
+挂钟
+@309
+@@So, just push one of those$three valves there and blow$in it, I guess... It's loud. 
+所以, 我想只要按下三个活塞中的一个$之后向里面吹, …声音会非常响。
+@310
+@@All this gentle dino wants$is for kids to have fun$sliding down its neck! 
+这只温柔的恐龙只是想让孩子们$从它的脖子滑下来！
+@311
+@@This table has a nice$apple scent. Beware if$you're allergic! 
+这张桌子有不错的苹果香味。$如果你对它过敏, 请小心！
+@312
+柜台桌
+@313
+@@Just prop this mirror up against$a wall, and you're all set to$look at yourself all you want!
+只靠着这面镜子, $你就能看到自己的一切！
+@314
+@@This is the kind of TV we'll$watch in the future...right? 
+这是我们将来要看的电视, 对吗？
+@315
+等离子电视机
+@316
+@@Slam it, shoot it, and take it$straight to the...thingie. Or$whatever you kids say... 
+别管你的孩子说什么, ……$总之拍球并让它笔直的落进里面。
+@317
+@@See yourself in this mirror$that's shaped like an igloo$that's shaped like a penguin!
+当你从这个镜子里看自己时, $发现自己圆圆的, 像一只企鹅！
+@318
+@@This stand could hold one$of those really big older TVs. 
+这个真的可以承载一些旧的电视机。
+@319
+车
+@320
+@@You can fit a lot of ice cream$in this freezer here! 
+你可以在这里装很多冰淇淋！
+@321
+@@Someone put a lot of$effort into this model$of Castle Dedede. 
+有人把大量的精力$投入到这座迪迪迪城堡中。
+@322
+天花灯
+@323
+@@I've never been in one$of these. I'm scared of$heights...and helicopters. 
+我从来没进去过里面, $我害怕很好的地方……和直升机。
+@324
+@@If you want to display your$fabric, get this. But why$would you want to do that?
+如果你想要展示你的布料, 用这个。 $但你为什么要这么做呢？
+@325
+@@You can't sleep through$this alarm! Well, I did,$but most people won't. 
+你不能从头到尾听这个闹钟睡觉！$好吧, 我做到了, 但大多数人都不会。
+@326
+@@This cushion is the perfect$size for holding on to during$scary movies! 
+看恐怖电影的时候$这个垫子正好能完美遮挡恐怖画面。
+@327
+咖啡
+@328
+@@You don't need to ride$this to enjoy it! In fact,$you probably shouldn't. 
+你不需要这样去享受它！$事实上, 你不应该这样做。
+@329
+烈焰火轮
+@330
+水晶
+@331
+室外浴
+@332
+@@This cuddly King Dedede has$no idea what's going on! Just$like the real thing! Look at him!
+这个可爱的迪迪迪国王完全不知道发生了什么！$看看他, 简直和本体一模一样！
+@333
+化石
+@334
+吐司面包
+@335
+盒子里的幽灵
+@@@
