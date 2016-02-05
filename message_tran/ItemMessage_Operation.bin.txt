@@ -2,6 +2,7 @@
 @0
 蹲伏
 @@Crouch
+@@***
 @1
 加速
 @2
@@ -9,6 +10,7 @@
 @@Swim
 @3
 加速@Boost@3
+@@***
 @4
 毛线抽打
 @@Yarn Whip
@@ -102,6 +104,7 @@
 火车
 @@TRAIN
 @34
+冲浪
 SPIN BOARDER
 @@***
 @35
@@ -245,6 +248,7 @@ Spin Punch
 @84
 旋转攻击
 @@Spin Attack
+@@***
 @85
 盘旋
 @@Hover
@@ -263,6 +267,7 @@ Spin Punch
 @90
 推进
 @@Thrust@90
+@@***
 @91
 射击
 @@Shoot
@@ -272,9 +277,11 @@ Spin Punch
 @93
 捕获射线
 @@Capture Beam
+@@***
 @94
 雷霆火花
 @@Thunder Spark
+@@***
 @95
 移动
 @@Move
