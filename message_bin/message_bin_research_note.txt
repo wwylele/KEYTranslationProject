@@ -3,7 +3,7 @@ A GFMC file has extension .bin, and magic "GFMC"(Good-Feel Message C?) at the be
 All data are big-endian.
 The data is actually a hash table. Each piece of text (known as a 'paragraph') in the file is
 identified by a 32-bit hash value (the hash input is probably its 'name', but the hash function is
-unknown). The file consist of a file header and 4 sections following: 
+unknown and the name were lost). The file consist of a file header and 4 sections following: 
 (A)buckets list, (B)entries list, (C)paragraphs list, and (D)text data.
 There are always 256 buckets, and paragraphs are allocated in buckets according to the lowest byte 
 of their hash value.
@@ -46,7 +46,7 @@ struct SectionB{ //entry list
 struct SectionC{ //paragraph list
 	struct ParagraphInfo{
 		u32 offsetToDataInSectionD;
-	}paragraphs[...]; //The same size as entries in SectionB
+	}paragraphs[...]; //The same size and order as entries in SectionB
 }
 
 struct SectionD{ //text data
@@ -62,7 +62,9 @@ struct SectionD{ //text data
 		}[...];                          //This size is rare to be more than 1
 		u16 endMagic;                    //=0x000B
 		u16 ParagraphMagic;              //="PG"
-	}data[...]
+	}data[...]; //The same size as SectionC, but not in the same order(!).
+	            //Element in SectionD seem to be sorted by an unknown method
+	            //  (maybe according to their names?)
 }
 
 

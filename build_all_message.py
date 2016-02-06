@@ -11,7 +11,8 @@ for message_label in message_list:
 	os.system("python message_bin/message_encode.py " + 
 		   "raw/"+message_label+".bin "+
 		   "message_tran/"+message_label+".bin.txt "+
-		   "build/"+message_label+".bin")
+		   "build/"+message_label+".bin "+
+	           "build/message_order/"+message_label+".order")
 message_list.close()
 os.system("python brfnt/cjk_filter.py -o build/cjkset "+fileList)
 os.chdir("./brfnt/brfnt_mod/")
