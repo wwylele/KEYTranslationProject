@@ -355,7 +355,7 @@
 火鸡
 @143
 @@You'll feel like a king$when you sit on this$gold-plated throne! 
-当你坐在这镀金宝座, $你会觉得自己像一位国王！
+当你坐在这镀金宝座上时, $你会觉得自己像一位国王！
 @144
 填充玩具熊
 @145
@@ -482,7 +482,7 @@
 这种真正的飞镖曾经在真正的比赛用过。
 @193
 @@This chandelier is very$simple and very elegant.$You can't go wrong here.
-这个吊灯很简单、很优雅。$你不能错过了这里
+这个吊灯很简单、很优雅。$你一定要拥有它。
 @194
 @@This snowman won't melt$at room temperature.$Go ahead, take him. 
 这个雪人不会在室温下融化。$带上它进去吧。
@@ -670,7 +670,7 @@
 巧克力条
 @269
 @@This lattice is covered$in sweet-pea vines. 
-这个格子框架是覆盖在甜豌豆的藤蔓。
+这个格子框架上覆盖着甜豌豆的藤蔓。
 @270
 @@This table from the future$is rumored to make food$automatically!
 这张来自未来的桌子传言能自动制作食品！
