@@ -1,2 +1,542 @@
-﻿@@@
-待完成
+﻿@0
+@@This mariner has a sword.$He's clearly under$Yin-Yarn's control. 
+这只水手有一把剑。$他显然是在阴纱・阳梭的控制之下。
+@1
+@@This mariner will shish$your kebab if you're$not careful! 
+这只水手会在你稍不留意时$把你弄成烤肉串！
+@2
+@@This mariner has a$cannon. Don't take his$strange head lightly! 
+这只水手头戴大炮, $不要小瞧它奇怪的头！
+@3
+@@Scary inhabitant of$Weird Woods, this is$one spooky tree! 
+奇异森林的一位可怕的居民, $同时它也是一棵怪异的树！
+@4
+@@This guy moves freely$through the water and$attacks quickly! Watch out!
+当心！这家伙能在水里$自由自在的快速攻击！
+@5
+@@This huge mariner shoots a$huge cannon. Steal his huge$shots and return huge fire! 
+这只巨大的水手有着巨大的大炮, $偷取它的大炮可以反击他！
+@6
+@@Dweller of the deep,$this monster uses his light$to distract his prey! 
+这只怪物是深处的居民, $它用光来分散猎物的注意力！
+@7
+@@I hope this guy is a$good swimmer, in case$that spike pops his ring. 
+我希望这家伙有很好的游泳技术$防止它的泳圈被刺扎到。
+@8
+@@Sneak Sack
+小偷麻袋
+@9
+@@Sawgill
+鳃锯鲨
+@10
+@@These guys live in magma.$They sink if you step on$them. Careful! 
+这些家伙在岩浆生活中, $如果你踩到它们, 它们会沉下去。小心！
+@11
+@@Freezo
+寒冰炮
+@12
+@@This snapper lives in$tight spaces. It can stretch$like you wouldn't believe! 
+这种鱼生活在狭小的空间里, $它能拉伸到不可思议的长度！
+@13
+@@His bite is dangerous,$but he can't do much$with a closed mouth! 
+它咬人很疼的, $但是如果它把嘴巴闭上, 就什么也做不了。
+@14
+@@Space Kracko
+太空克拉克
+@15
+@@Yin-Yarn made these$impostors! They look$just like the real ones!
+这些是阴纱・阳梭做的冒牌货！$它们看上去都跟真的一样！ 
+@16
+@@Amprey
+埃姆普雷
+@17
+@@Li'l Kracko
+小克拉克
+@18
+@@Kracko
+克拉克
+@19
+@@Boinger
+啵哟
+@20
+@@That pink headband means$business! Grizzo will charge$you with all his might! 
+那顶粉色的头巾是生意的象征！$格里佐将尽可能的向你收费！
+@@***
+@21
+@@This indestructible$cannon packs quite$a wallop! 
+这个坚不可摧的炮具有很强的冲击力！
+@22
+@@This yarn Waddle Dee's$parasol keeps him safe$from rain, sun, or foes! 
+这是毛线瓦多迪的太阳伞, $这只伞能让他免遭暴雨、烈日以及敌人的攻击！
+@23
+@@Candlemander
+炎烛蜥蜴
+@24
+@@Whispy Woods
+维斯比之树
+@25
+@@Chilly shoots a frigid blast$from his body! That's not$cool, dude. 
+雪丽从它身体里射出寒气！$好吧, 这一点也不酷。
+@26
+@@Sea Jelly
+深海水母
+@27
+@@This yarn Waddle Dee$has lots of balloons.$He wants to fly high! 
+这只毛线瓦多迪拿着很多气球！$它想要飞得更高～！
+@28
+@@Whistle Soldier
+哨兵
+@29
+@@Sword Soldier
+刀兵
+@30
+@@This creature's moves$are unpredictable, and his$aim is very precise! 
+这种生物的移动轨迹是无法预测的, $而且它的瞄准很精确！
+@31
+@@Spear Soldier
+枪兵
+@32
+@@Fangora
+梵格拉
+@33
+@@This fake Waddle Dee$has a bow and some$odd aiming skills. 
+这只假瓦多迪不仅有弓, $还有些奇怪的瞄准技巧。
+@34
+@@Cannon Soldier
+炮兵
+@35
+@@Hot Wings
+炽炎之翼
+@36
+@@He has a spiky body but$soft eyes. It's just$better to avoid him. 
+他有一个尖尖的身体, 但眼神却很温柔, $最好还是避开它吧。
+@37
+@@Squashini
+南瓜魔术师
+@38
+@@Anemonee
+海葵
+@39
+@@Capamari
+墨顶章鱼
+@40
+@@King Dedede
+迪迪迪国王
+@41
+@@Meta Knight
+梅塔骑士
+@42
+@@Yin-Yarn
+阴纱・阳梭
+@43
+@@Mega Yin-Yarn
+Mega阴纱・阳梭
+@44
+@@Spear Waddle Dee
+长枪瓦多迪
+@45
+@@This space bug likes to$attack in formation with a$swarm of its closest friends. 
+这只太空虫子喜欢与它的朋友们$群聚到一起进行攻击。
+@46
+@@Waddle Doo
+瓦多度
+@47
+@@A Spore Jelly just floats$about, dropping spores$on everything. Surprise! 
+一只孢子水母能让孢子落在所有东西上, $好厉害！
+@48
+@@Ooki
+吱吱
+@49
+@@Bomber
+死亡炸弹
+@50
+@@These guys are always by$themselves at parties.$They're real ceiling drips! 
+这下家伙没有人会搭理, $他们只不过是天花板上的水滴罢了！
+@51
+@@Flamer
+烈焰火轮
+@52
+@@This ghost gives off a$nice glow. Wrap him up$and use him as a lantern! 
+这只鬼散发出美丽的光泽, $把他裹起来, 当成灯笼用！
+@53
+@@Blipper
+波利普
+@54
+@@These are Hot Wings's$kids. They'll come after$you just like their mom!
+它们是炽炎之翼的孩子, $会像它们的母亲一样来追你。
+@55
+@@Scarfy
+斯卡菲
+@56
+@@These are Capamari's$wacky kids. They all$attack at once. 
+这些是墨顶章鱼的古怪的孩子们。$它们会马上攻击。
+@57
+@@Buttonbug
+纽扣虫
+@58
+@@These guys work behind the$seams to stitch together$new platforms! 
+这些家伙工作在背后接缝缝合新的平台上！
+@@***
+@59
+@@Bronto Burt
+墨点伯特
+@60
+@@Cyclod
+吴克洛德
+@61
+@@Buttonfly
+纽扣蝶
+@62
+@@Rolling Clod
+旋转克洛德
+@63
+@@Space Jelly
+太空水母
+@64
+@@She loves sparkling beads and$other shiny objects! Go collect$some with her! 
+她喜欢闪亮的珠子和其他闪闪发光的东西！$去和她一起收集吧！
+@65
+@@Truck Monster
+路霸
+@66
+@@She loves racing and fashion.$See if you can pass her when$she's catching her breath!
+她喜欢竞赛和时尚。$看你能不能捕捉她的气息并追上她！
+@67
+@@He loves to play hide-$and-seek! Try to find$him and his friends!
+他喜欢捉迷藏, $去找到他和他的朋友们吧！
+@68
+@@Knows that a gentleman must$train to be healthy! Can$you complete his program?
+你要知道绅士必须$通过训练来保持身体健康, $能完成他的计划吗？
+@69
+@@Loves cute things and going$out. Take her out and treat$her to a pleasant surprise!
+不仅喜欢可爱的东西, 还喜欢外出散步, $带她出门并给她一个惊喜吧！
+@70
+@71
+@@Twiggy Woods
+特维基之树
+@72
+@@Somebody
+谁
+@73
+@@Fluff
+弗拉弗
+@74
+@@Angie
+安吉
+@75
+@@Dom Woole
+毛房东
+@76
+@@Chaise Woole
+毛装修
+@77
+@@Loomis Woole
+毛卖布
+@78
+@@This thief steals beads$and disappears if you$touch him!
+如果你碰到这只偷珠子的贼$它就会消失不见！
+@79
+@@This guy packs one of$the most dangerous saws$in the ocean! 
+这家伙有着一把海洋中最危险的锯子！
+@80
+@@Freezo may look festive,$but it's an ice-cube party$if you touch him!
+寒冰炮看上去挺喜庆的, $但是你碰到他, 你就会变成大冰块！
+@81
+@@This is one of Kracko's$distant relatives. He attacks$along with his Li'l Krackos. 
+这是克拉克的远房亲戚之一, $他随着小克拉克一起攻击。
+@82
+@@This creature lives deep$in the ocean. Don't be$shocked if you see it! 
+这只生物生活在深海里, $当你看到它时不要太震惊哦！
+@83
+@@These are Krackos-in-training.$They're not very strong, but$they sure work well as a team!
+这些都是训练好的克拉克。$他们不是很强, 但是他们进行$团队合作的话就会很厉害！
+@84
+@@The fluffy body looks soft,$but that big eye will shoot$bolts that are anything but...! 
+蓬松的身体看起来十分柔软, $但那只大眼睛会射到任何东西的上, 除了…！
+@@***
+@85
+@@This weirdo will give$you quite a lift if you jump$on its head just right! 
+如果你刚好跳在这只怪人的头上, $它就会送你一程。
+@86
+@@This hothead is very$territorial, so don't get$too close! 
+这只急性子非常有领土意识, $所以不在太靠近它们！
+@87
+@@This forest king has lived$in Dream Land for ages.$He's always in Kirby's way. 
+这位森林之王已经在梦幻大陆上生活很久了。$他总是在卡比的路途上。
+@88
+@@Shelby 
+谢尔比
+@89
+@@It must feel nice to float$around all day. Beware$of its stinging tentacles! 
+每天都漂浮着一定感觉很不错！$但是要小心它的刺！
+@90
+@@Uniclod
+独角克洛德
+@91
+@@This soldier can call$for help, so be sure to$deal with him quickly! 
+这只士兵会呼叫他的伙伴, $所以要快点解决他！
+@92
+@@Buttonbee
+纽扣蜂
+@93
+@@I bet this guy wouldn't$be such a big shot$without his sword! 
+我敢打赌, 如果要是没有这把剑, $这家伙绝不会是一个大人物。
+@94
+@@Slobba
+大肥虫
+@95
+@@This soldier wields a spear...$Do you think he gets paid$more than the Sword Soldier? 
+这只士兵挥舞长矛…$你认为他得到的报酬会比用剑的士兵多吗？
+@96
+@@This flaming guardian can$breathe fire but will drop$its guard when tired! 
+这只火焰护卫可以喷火, $但当它累了的时候会降低防卫。
+@97
+@@Sulkworm
+闷气虫
+@98
+@@This soldier has a cannon,$so you better look out!$Those shots are dangerous! 
+这只士兵头戴大炮, $你最好小心点, 这些家伙很危险！
+@99
+@@This guardian of the volcano$shoots fire from her wings!$Avoid getting burned! 
+这位火山守护者会从她的翅膀上射出火焰！$要避免被烧伤！
+@100
+@@Dandan
+弹弹
+@101
+@@This villain of Treat Land$has more than a few$mean tricks up his sleeve! 
+这个宴请之境的恶棍$有很多有意思的「锦囊妙计」！
+@102
+@@Jelly Jr.
+小水母
+@103
+@@This guy smiles all the time,$because he only has to wait$for food to come his way. 
+这家伙任总是在笑着, $因为他只需要等着食物来到他身边。
+@104
+@@This sea monster is rather$vain. I wonder what the deal$with that knit cap is...? 
+这只深海怪物相当自负的。$我想知道到底怎么处理这顶针织帽…？
+@105
+@@Calderon
+小火山
+@106
+@@This selfish Dream Land king$wields a big hammer that's$almost as big as his mouth! 
+这位自私的梦幻大陆之王$手持着几乎和他嘴巴一样大的锤子！
+@107
+@@Swadclod
+木乃伊克洛德
+@108
+@@This space guardian fell$under Yin-Yarn's spell!$Luckily, it all worked out!
+这位空间守护者落入了阴纱・阳梭的咒语下！$幸运的是, 这一切都解决了！
+@109
+@@This sorcerer uses his knitting$needles to weave his evil$all across Dream Land! $
+这名巫师用他的编织针$在整个梦幻大陆上编织他的邪恶！
+@110
+@@Yin-Yarn used the power of$the Metamato to transform$into a mighty robot tank!
+阴纱・阳梭用他的力量$让红番茄变成一个强大的机器人坦克！
+@111
+@@This fake Waddle Dee$recklessly twirls around$a spear. Look out! 
+这只假瓦多迪不顾一切地旋转长枪, 小心！
+@112
+@@This big-eyed Waddle Doo may$be a fake, but that beam is$as nasty as the real thing!
+这只有着大眼睛的瓦多度可能是假的, $但是它的光线和真的瓦多度一样令人讨厌！
+@113
+@@Embaconda
+火苗巨蟒
+@114
+@@This cheeky monkey is$bananas about throwing$beads everywhere! 
+这只顽皮的猴子$到处扔珠子和香蕉！
+@115
+@@Battins
+纽扣蝙蝠
+@116
+@@This walking bomb has$a skull on it. When$it starts blinking, run! 
+在这颗炸弹的上面有一个骷髅。$当它开始闪烁时, 快跑！
+@117
+@@Emba
+火苗
+@118
+@@Approaching this spinner$causes it to erupt into$flames. I warned you! 
+我警告你, 接近它, $它就会旋转并喷射出火焰！
+@119
+@@Whistle Mariner
+笛海兵
+@120
+@@These funky fish wear$goggles. Is it fashion?$Come on, they're fish. 
+这些时髦的鱼戴着泳镜。$这是时尚？拜托, 他们可是鱼。
+@121
+@@Sword Mariner
+剑海兵
+@122
+@@The face of an angel?$Sure...as long as you$don't get Scarfy mad! 
+天使般的笑脸？$好吧, 只要你不让斯卡菲愤怒……
+@123
+@@Spear Mariner
+枪海兵
+@124
+@@Red means DANGER.$This bug will chase you$down, so be careful! 
+红色意味着「危险！」$这个虫子会追踪你！请小心！
+@125
+@@Cannon Mariner
+炮海兵
+@126
+@@Burt is a powerhouse.$He can carry quite a$load even while flying! 
+墨点伯特十分强壮, $即使在飞行中他也能携带相当重的东西！
+@127
+@@Wicked Willow
+维凯德柳树
+@128
+@@Cutfish
+千针鲶
+@129
+@@Blast Mariner
+炸裂海兵
+@130
+@@He'll tackle you with all$he's got! It won't hurt,$but you may go flying! 
+他会用尽全力撞你！虽说你不会受伤, 但是可能会被撞飞！
+@131
+@@Green means GO, but$you still want to be$careful around this guy! 
+绿色意味着「前进」, $但你仍然要小心周围的人！
+@132
+@@Danglerfish
+晃晃安康
+@133
+@@This big lug will just$keep rolling until he$hits something. 
+这只大家伙会不停滚动, $直到他撞到什么东西后才会停下。
+@134
+@@Bobber Clod
+浮标克洛德
+@135
+@@This alien being floats$through space, dropping$energy spheres everywhere. 
+这只外星人正在太空中漂浮着, $并到处乱扔能量球。
+@136
+@@Don't let this crazy hot$rod win! Show him who's$the king of the road! 
+不要让这架「疯狂式・旧车改装高速汽车」获胜！$告诉他谁才是真正的道路之王！
+@137
+@@Magmotamus
+岩浆河马
+@138
+@@Snip-Snap
+咔嚓咔嚓
+@139
+@@Gator
+咬咬鳄
+@140
+@@Waddle Dee
+瓦多迪
+@141
+@@Catching food is its$specialty. Don't get$caught up in him! 
+捕捉食物是它的特色。$当心别被他抓住！
+@142
+@@These trees live in the$forests of Dream Land.$They have great leaves! 
+这些树生活在梦幻大陆的森林里。$他们有多的叶子！
+@143
+@@Grizzo
+格里佐
+@144
+@@Shotzo
+射击佐伊
+@145
+@@Parasol Waddle Dee
+阳伞瓦多迪
+@146
+雪丽
+@@Chilly
+@147
+@@Balloon Waddle Dee
+气球瓦多迪
+@148
+@@UFO
+UFO
+@149
+@@Bow Waddle Dee
+弓箭手瓦多迪
+@150
+@@Gordo
+尖刺戈多
+@151
+@@Orbitfly
+太空纽扣蜂
+@152
+@@Spore Jelly
+孢子水母
+@153
+@@Loves to explore the world.$She can also help you out if$you ever get into a jam!
+她喜欢探索世界。$如果你陷入困境, $她也能帮助你走出困境！
+@154
+@@Dom Woole manages$Quilty Court. He's a$big shot around here! 
+毛房东管理着棉被之邸,$他在这里是个大人物！
+@155
+@@Dropso
+小水滴
+@156
+@@A fine furniture seller who$brings high-end style to the$masses. We should thank him!
+这位卖家给大家带来了$高大上的精致家具。$我们应该感谢他！
+@157
+@@Stogue
+闪光浮灵
+@158
+@@The designer everyone is$talking about! He's always$looking for inspiration... 
+这就是每个人都在谈论的设计师！$他总是在寻找灵感…
+@159
+@@Embird
+火苗鸟
+@160
+@@Octopea
+舞贼
+@161
+@@Soocher
+针线头
+@162
+@@Beadrix
+贝特丽克丝
+@163
+@@Mara
+玛拉
+@164
+@@Zeke
+泽珂
+@165
+@@Buster
+巴斯特
+@166
+@@Carrie
+卡莉
+@167
+@@Snails are lonely, so$when he sees someone new,$he tackles them with joy! 
+蜗牛是孤独的, 所以当他看到新来的人时, $他会喜悦地冲向他们。
+@168
+@@Uniclod is very proud of his$horn... That's why he wants$to spear everyone with it. 
+独角克洛德对自他的角非常得意……$这就是他想要用角刺别人的原因。
+@169
+@@Yellow means$CAUTION. Watch out$for that stinger! 
+黄色意味着「小心」！$当心那毒刺！
+@170
+@@This sticky-tongued$monster will try to lick$just about anything! 
+这种粘稠的怪物会尝试舔任何东西！
+@171
+@@This big slug likes to$crush his foes. He spits$some mean thread, too! 
+这只大蛞蝓喜欢粉碎他的敌人, $它也会吐出一些线来！
+@172
+@@This master shoots out$balls of energy. Get up$close to take him out! 
+这位大师会射出能量球, $接近他并把他击飞吧！
+@173
+@@This jelly floats around,$shocking anything in$its way with 10,000 volts!
+这只水母漂浮着, $用它独有的10000伏特震住周围所有的东西！
+@174
+@@This angry little guy$erupts constantly.$Watch out for lava burns! 
+这只愤怒的小家伙不断地爆发。$当心被熔岩烧伤！
+@175
+@@This enemy is wrapped$in bandages and$mystery... So he thinks.
+这只敌人是裹着绷带的神秘人$…他自己是这么认为的。
+@176
+@@Some say there are beads$hidden in this snake's burning$body! Can you believe it?! 
+有人说这条燃烧的蛇的身体里有珍珠！$你会相信吗？
+@177
+@@This bat strikes when$you get close. He's a$silent hunter. 
+当你靠近的时候, 这只蝙蝠会攻击你。$他是个沉默的猎人呢。
+@178
+@@This guy loves his$burning lifestyle and$definitely hates water.
+这家伙喜欢他燃烧般的生活方式, $所以十分讨厌水的！
+@179
+@@This mariner may try and$call for backup troops!$That's not good... 
+这只水手可以尝试呼叫增援的军队！$这可不妙了……
+@@@
