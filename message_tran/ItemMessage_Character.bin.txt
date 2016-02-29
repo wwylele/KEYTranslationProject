@@ -100,7 +100,7 @@
 梵格拉
 @33
 @@This fake Waddle Dee$has a bow and some$odd aiming skills. 
-这只假瓦多迪不仅有弓, $还有些奇怪的瞄准技巧。
+这只冒牌瓦多迪不仅有弓, $还有些奇怪的瞄准技巧。
 @34
 @@Cannon Soldier
 炮兵
@@ -334,7 +334,7 @@ Mega阴纱・阳梭
 阴纱・阳梭用他的力量$让红番茄变成一个强大的机器人坦克！
 @111
 @@This fake Waddle Dee$recklessly twirls around$a spear. Look out! 
-这只假瓦多迪不顾一切地旋转长枪, 小心！
+这只冒牌瓦多迪不顾一切地旋转长枪, 小心！
 @112
 @@This big-eyed Waddle Doo may$be a fake, but that beam is$as nasty as the real thing!
 这只有着大眼睛的瓦多度可能是假的, $但是它的光线和真的瓦多度一样令人讨厌！
