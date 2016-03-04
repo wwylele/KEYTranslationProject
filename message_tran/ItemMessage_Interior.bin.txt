@@ -33,14 +33,14 @@
 披萨
 @14
 @@This umbrella stand$uses its magic frog power to$bring you all lost umbrellas!
-这把雨伞架会使用它的魔法青蛙之力$让你全部的雨伞丢失！
+这把雨伞架会使用它的魔法青蛙之力$让你全部的雨伞消失！
 @15
-甜甜圈枕头
+甜甜圈坐垫
 @16
 骑士头盔
 @17
 @@This sharp-dressed$dresser can store all$of your tuxedos! 
-这个装饰得体的梳妆台可以$存储你所有的礼服！
+这个装饰得体的收集柜可以$存储你所有的礼服！
 @18
 弹性座垫
 @19
@@ -106,7 +106,7 @@
 气泡苏打
 @44
 @@Keep this fireplace fed$with logs, and you'll be$happy for the holidays. 
-持续用把原木放进壁炉, $你将会有一个快乐的假期。
+不断地向壁炉里放入圆木, $你将会有一个快乐的假期。
 @45
 梳妆台
 @46
@@ -130,18 +130,18 @@
 雪人
 @54
 @@This bed is made of$springy mushrooms that$make for bouncy naps! 
-这张床是为了能够轻快地小睡$而采用了弹力蘑菇制成。
+这张床为了让人能够轻快地小睡$而采用了弹力蘑菇制成。
 @55
 @@This is an ice-cream sculpture$from another tropical$paradise I have yet to visit...
 这是一个来自其他热带乐园的冰淇淋, $我从来没有去过那里…
 @56
-大梳妆台 
+大梳妆台
 @57
 @@This square cushion$tells the world that$you are totally cozy. 
 全世界都知道坐着这个方形坐垫会很舒服！
 @58
 @@This meat is straight out$of a caveman cartoon!$Mmmm... Grog need fire! 
-这块肉直言说自己是卡通穴居人！$嗯…熟料需要火！
+这块肉简直是从卡通中取出来的一样！$嗯…熟料需要火！
 @59
 宝藏地毯
 @60
@@ -162,9 +162,9 @@
 这个时钟总是渴求一缕阳光。
 @66
 @@Now this is a sleigh that is$always ready for a snowy ride$through the hills! 
-这个雪橇总会在从雪山滑下前做好准备。
+这个雪橇为滑下雪山时刻准备着！
 @67
-盖拉西亚之剑
+万能剑・盖拉西亚
 @68
 @@This storage unit is great for$getting stuff out of the way. 
 这个储存设备的伟大之处在于$它让东西出来的方式。
@@ -177,7 +177,7 @@
 土星甜甜圈
 @72
 @@I hear that retired pirates$make these all day long! 
-我有一天听说退休的海盗整天都是这样！
+我听说退休的海盗们$每天都在制作这些小玩意！
 @73
 精美的床
 @74
@@ -187,7 +187,7 @@
 @@This floor mat makes me$wonder why there aren't$more giant chocolate bars!
 这地板垫使我想知道$为什么没有更多的大条巧克力！
 @76
-节日树
+圣诞树
 @77
 @@This is a miniature version$of the Bonus Bells that you$see everywhere around here.
 这是一个迷你奖金钟, $你看所有都围绕着这里。
@@ -209,7 +209,7 @@
 这面镜子需要安装在墙上, $否则就要滚到地上了。
 @84
 @@Squirrels and lumberjacks$can relax here peacefully.$Just not at the same time! 
-松鼠和伐木工人可以在这里放松平静。$只是不能在同一时间！
+松鼠和伐木工人可以在这里休息一下。$只是不能在同一时间！
 @85
 @@This digital clock is easy$to read even when the$lights are out! 
 当灯亮了的时候$这个数字时钟很容易看时间。
@@ -220,7 +220,7 @@
 这个UFO可能有外星人在里面, $我尽我所能一直盯着它。
 @88
 @@This chimney is stuffed$with toys. Get a plunger$and save this holiday! 
-这个烟筒里塞满了礼物, $想办找点东西把它法疏通了吧！
+这个烟筒里塞满了礼物, $想办法找点东西把它疏通了吧！
 @89
 @@This dresser only has one$drawer. Be sure to fill it wisely! 
 这个梳妆台只有一个抽屉。$一定要理智地放满东西！
@@ -302,7 +302,7 @@
 寿司
 @121
 @@This bath is nice for$bringing the outdoors$to the indoors! 
-这个浴缸好在能把室外带入室内！
+这个浴缸好在能把室外的感觉带入室内！
 @122
 玩具钢琴
 @123
@@ -342,7 +342,7 @@
 @@A giant Chilly. Don't worry--$it's not cold. It's kinda warm,$and a little mushy, actually...
 一个巨大的雪丽。$别担心--它不冷。$它很温暖, 还有些伤感, 真的…
 @138
-月亮钟表
+月亮钟
 @139
 @@This telescope is perfect for$stargazing on a clear night.
 这架望远镜能眺望到到更清晰的夜空。
@@ -357,7 +357,7 @@
 @@You'll feel like a king$when you sit on this$gold-plated throne! 
 当你坐在这镀金宝座上时, $你会觉得自己像一位国王！
 @144
-填充玩具熊
+玩具熊
 @145
 迪迪迪的长袍
 @146
@@ -434,7 +434,7 @@
 苹果桌子
 @175
 @@This anemone chair looks$comfy, but it feels a bit$strange... Go ahead, try it! 
-这朵银莲花椅子看起来舒服, $但感觉有点怪怪的…$去吧, 坐下来试试！
+这个海葵椅子看起来舒服, $但感觉有点怪怪的…$去吧, 坐下来试试！
 @176
 长镜
 @177
@@ -444,7 +444,7 @@
 @@This pumpkin looks great as$a quaint decorative item. 
 这个南瓜看起来像一个奇特的装饰物。
 @179
-太空监视器
+太空显示屏
 @180
 @@This chair is perfectly$normal--hence the name. 
 这把椅子十分普通--因此而命名。
@@ -482,10 +482,10 @@
 这种真正的飞镖曾经在真正的比赛用过。
 @193
 @@This chandelier is very$simple and very elegant.$You can't go wrong here.
-这个吊灯很简单、很优雅。$你一定要拥有它。
+这个吊灯很简单, 很优雅。$你一定要拥有它。
 @194
 @@This snowman won't melt$at room temperature.$Go ahead, take him. 
-这个雪人不会在室温下融化。$带上它进去吧。
+这个雪人不会在室温下融化。$带它进屋吧。
 @195
 迪迪迪的城堡
 @196
@@ -558,7 +558,7 @@
 @221
 石灯
 @222
-青蛙伞支架
+青蛙雨伞架
 @223
 企鹅收集柜
 @224
@@ -615,7 +615,7 @@
 牛排
 @246
 @@This fountain is perfect$for any room...that is big.$Any room that is REALLY big.
-这个喷泉是适合任何一个很大房间$……非·常·大的房间！
+这个喷泉是适合任何一个很大的房间$……非·常·大的房间！
 @247
 蘑菇床
 @248
@@ -655,7 +655,7 @@
 矩形花盆
 @263
 @@This flaming torch can$really brighten up any$dungeon, lair, or foyer.
-这燃烧的火把, 真的可以照亮任何$副本, 巢穴, 或门厅以及情侣。
+这燃烧的火把, 真的可以照亮任何$ 副本, 巢穴, 或门厅以及情侣。
 @264
 海盗船
 @265
@@ -715,7 +715,7 @@
 烟囱
 @287
 @@This guard bear lost his$post when he was caught$napping on the job!
-当这个熊保卫在工作中打盹并被发现时, $它就会被炒鱿鱼！
+如果这个熊保卫在工作时被发现打盹, $它就会被炒鱿鱼！
 @288
 @@This luxurious robe is$amazingly comfy, even$if it is a little big. 
 这件豪华的长袍极其舒适, $尽管它有点大。
@@ -739,7 +739,7 @@
 在这个篮子里有野餐吃的食物$和满是泡沫的苹果酒。
 @296
 @@This cute sofa will$always smell like a$fresh bouquet! 
-这座可爱的沙发闻起来总有一股新鲜的味道！
+这套可爱的沙发闻起来总有一股新鲜的味道！
 @297
 @@It never stops snowing inside$this globe. Can you see any$little shovels in there?
 球里的世界在永不停息的下着雪。$你在里面能看到小铲子吗？

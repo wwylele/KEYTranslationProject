@@ -15,7 +15,7 @@
 当心！这家伙能在水里$自由自在的快速攻击！
 @5
 @@This huge mariner shoots a$huge cannon. Steal his huge$shots and return huge fire! 
-这只巨大的水手有着巨大的大炮, $偷取它的大炮可以反击他！
+这只巨大的水手$头上有着巨大的大炮, $偷取它的大炮可以反击他！
 @6
 @@Dweller of the deep,$this monster uses his light$to distract his prey! 
 这只怪物是深处的居民, $它用光来分散猎物的注意力！
@@ -60,8 +60,7 @@
 啵哟
 @20
 @@That pink headband means$business! Grizzo will charge$you with all his might! 
-那顶粉色的头巾是生意的象征！$格里佐将尽可能的向你收费！
-@@***
+红色的头巾是斗志的印记！$格里佐会干劲满满地突进过来！
 @21
 @@This indestructible$cannon packs quite$a wallop! 
 这个坚不可摧的炮具有很强的冲击力！
@@ -175,8 +174,7 @@ Mega阴纱・阳梭
 纽扣虫
 @58
 @@These guys work behind the$seams to stitch together$new platforms! 
-这些家伙工作在背后接缝缝合新的平台上！
-@@***
+这些家伙在缝隙背面劳作,$一起缝合出新的平台！
 @59
 @@Bronto Burt
 墨点伯特
@@ -249,14 +247,13 @@ Mega阴纱・阳梭
 这只生物生活在深海里, $当你看到它时不要太震惊哦！
 @83
 @@These are Krackos-in-training.$They're not very strong, but$they sure work well as a team!
-这些都是训练好的克拉克。$他们不是很强, 但是他们进行$团队合作的话就会很厉害！
+这些都是训练好的克拉克。$他们不是很强, 但是他们进行$团队合作就会很厉害！
 @84
 @@The fluffy body looks soft,$but that big eye will shoot$bolts that are anything but...! 
-蓬松的身体看起来十分柔软, $但那只大眼睛会射到任何东西的上, 除了…！
-@@***
+柔软的身体上有一颗大眼珠, $发现敌人的话就会迸出强力的电击！
 @85
 @@This weirdo will give$you quite a lift if you jump$on its head just right! 
-如果你刚好跳在这只怪人的头上, $它就会送你一程。
+如果你刚好跳在$这只怪人的头上, $它就会送你一程。
 @86
 @@This hothead is very$territorial, so don't get$too close! 
 这只急性子非常有领土意识, $所以不在太靠近它们！
@@ -406,7 +403,7 @@ Mega阴纱・阳梭
 浮标克洛德
 @135
 @@This alien being floats$through space, dropping$energy spheres everywhere. 
-这只外星人正在太空中漂浮着, $并到处乱扔能量球。
+这只外星水母正在太空中漂浮着, $并到处乱扔能量球。
 @136
 @@Don't let this crazy hot$rod win! Show him who's$the king of the road! 
 不要让这架「疯狂式・旧车改装高速汽车」获胜！$告诉他谁才是真正的道路之王！

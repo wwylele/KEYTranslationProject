@@ -1,8 +1,6 @@
 ﻿@@by wwylele
 @0
 蹲伏
-@@Crouch
-@@***
 @1
 加速
 @2
@@ -31,7 +29,6 @@
 @@You can choose which$furniture to place with ③.$$Items you haven't found$yet will be grayed out.
 @10
 坦克机器人
-@@***
 @@TANKBOT
 @11
 飞碟
@@ -39,7 +36,6 @@
 @12
 冲浪
 @@SPIN BOARDER@12
-@@***
 @13
 越野车
 @@OFF-ROADER
@@ -95,8 +91,6 @@
 @@Open the menu and$choose Change Layout$to redo your room$however you want! $$You can also point the$Wii Remote at the TV$and press ③ to change$the layout.
 @31
 坦克机器人
-@@***
-@@TANKBOT
 @32
 越野车
 @@OFF-ROADER@32
@@ -105,8 +99,6 @@
 @@TRAIN
 @34
 冲浪
-SPIN BOARDER
-@@***
 @35
 控制
 @@CONTROLS
@@ -210,20 +202,13 @@ SPIN BOARDER
 毛房东的请求
 @72
 星舰
-@@STAR SHOOTER@72
-@@***
-@@目前借用Starship翻译
 @73
 澎湃攻击
-@@***
-@@Surge Attack
 @74
 和朋友一起玩
 @@PLAY WITH FRIENDS
 @75
 杂耍
-@@Play
-@@***
 @76
 放置补丁
 @@PLACE A PATCH
@@ -247,8 +232,6 @@ Flying Punch
 Spin Punch
 @84
 旋转攻击
-@@Spin Attack
-@@***
 @85
 盘旋
 @@Hover
@@ -266,8 +249,6 @@ Spin Punch
 @@Dom Woole needs$your help!$$Place the correct$furniture in the$shadowed areas.
 @90
 推进
-@@Thrust@90
-@@***
 @91
 射击
 @@Shoot
@@ -277,11 +258,9 @@ Spin Punch
 @93
 捕获射线
 @@Capture Beam
-@@***
 @94
 雷霆火花
 @@Thunder Spark
-@@***
 @95
 移动
 @@Move
